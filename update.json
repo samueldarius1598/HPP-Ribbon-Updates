@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.4",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.4/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Pembaruan Logo Icon\nSorting Urutan Icon\nAuto Run Update List Outlet ESB\nPembaruan Status App Ribbon",
+  "version": "3.4.5",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.5/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.5\nPerbaikan Standard Price yang mengembalikan 0 padahal memiliki Harga Cost di Odoo",
   "forceUpdate": false
 }
