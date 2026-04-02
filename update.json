@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.2",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.2/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Perubahan Icon Tombol Stock Movement",
+  "version": "3.4.3",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.3/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Pembaruan Icon dan Susunan Ribbon Internal Transfer",
   "forceUpdate": false
 }
