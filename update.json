@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.8",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.8/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Perbaikan Configuration Client-Side, Perbaikan Scroll Bar dan Fixed Footer Upload Internal Transfer Odoo ke GitHub",
+  "version": "3.4.9",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.9/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.9\nPerbaikan auto-update dengan fallback manifest saat host GitHub utama gagal di-resolve.\nPerbaikan proses download update dengan fallback HTTP client agar user versi lama tetap bisa lompat ke versi terbaru.\nPesan error self-update dibuat lebih jelas agar titik gagal lebih mudah ditelusuri.",
   "forceUpdate": false
 }
