@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.7",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.7/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Perbaikan Fitur Unggah Internal Transfer, penambahan Triger dan Upload Internal Transfer, Perbaikan keamanan dan Integritas Data yang di upload dari Internal Transfer",
+  "version": "3.4.8",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.8/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Perbaikan Configuration Client-Side, Perbaikan Scroll Bar dan Fixed Footer Upload Internal Transfer Odoo ke GitHub",
   "forceUpdate": false
 }
