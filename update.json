@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.6",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.6/smartsCCHPPMaster.xlam",
-  "releaseNotes": "STEP 2 cache: TTL-based caching untuk ESB pricelist (2j) dan Odoo cost (24j) di xlSheetVeryHidden. Cache-miss sentinel untuk skip re-fetch kode yg return 0. Speed-up 26x untuk run ke-2+ (26s -> ~1s)",
+  "version": "3.4.7",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.7/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Perbaikan Fitur Unggah Internal Transfer, penambahan Triger dan Upload Internal Transfer, Perbaikan keamanan dan Integritas Data yang di upload dari Internal Transfer",
   "forceUpdate": false
 }
