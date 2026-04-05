@@ -2,6 +2,6 @@
   "appId": "smartsCCHPPMaster",
   "version": "3.4.13",
   "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.13/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.13\n- Perbaikan pengecekan effective lock date pada flow Upload Internal Transfer dan prepare.\n- Prepare sekarang gagal lebih awal jika tanggal sama dengan lock date aktif.\n- False warning action_post/result=False tidak lagi ditampilkan bila jurnal STJ sudah terverifikasi posted.",
+  "releaseNotes": "Versi 3.4.13\nPerbaikan Standard Cost pada Prepare Dashboard.\n\nCompany context untuk pengambilan Standard Cost sekarang hanya menggunakan List 3 pada sheet konfigurasi-ClientSide (range H:I).\nFetch cost Odoo dan cache __cache_odoo_cost tidak lagi membaca List 2 / range F:G.\nMemperbaiki kasus kolom H Dashboard yang sebelumnya banyak menjadi 0 atau mengambil cost dari company yang salah.",
   "forceUpdate": false
 }
