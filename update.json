@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.13",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.13/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.13\nPerbaikan Standard Cost pada Prepare Dashboard.\n\nCompany context untuk pengambilan Standard Cost sekarang hanya menggunakan List 3 pada sheet konfigurasi-ClientSide (range H:I).\nFetch cost Odoo dan cache __cache_odoo_cost tidak lagi membaca List 2 / range F:G.\nMemperbaiki kasus kolom H Dashboard yang sebelumnya banyak menjadi 0 atau mengambil cost dari company yang salah.",
+  "version": "3.4.14",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.14/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.14\nPerbaikan Standard Cost pada Prepare Dashboard.\n\nCompany context untuk pengambilan Standard Cost sekarang hanya menggunakan List 3 pada sheet konfigurasi-ClientSide (range H:I).\nFetch cost Odoo dan cache __cache_odoo_cost tidak lagi membaca List 2 / range F:G.\nMemperbaiki kasus kolom H Dashboard yang sebelumnya banyak menjadi 0 atau mengambil cost dari company yang salah.",
   "forceUpdate": false
 }
