@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.10",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.10/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.10\nPerbaikan HolyPOS Sales per Bill agar tidak memicu Out of memory saat note diawali karakter formula-like seperti =, +, -, atau @.\nPerbaikan penulisan sheet Sales untuk payload outlet ramai seperti Bogor Cabin agar proses selesai penuh tanpa berhenti di tengah write.\nPesan error diperjelas saat proses gagal sebelum data sheet Sales sempat diperbarui.",
+  "version": "3.4.11",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.11/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.11\nPerbaikan HolyPOS Sales per Bill agar tidak memicu Out of memory saat note diawali karakter formula-like seperti =, +, -, atau @.\nPerbaikan penulisan sheet Sales untuk payload outlet ramai seperti Bogor Cabin agar proses selesai penuh tanpa berhenti di tengah write.\nPerbaikan URL manifest self-update agar membaca endpoint raw GitHub yang konsisten di /main/update.json.\nPesan error diperjelas saat proses gagal sebelum data sheet Sales sempat diperbarui.",
   "forceUpdate": false
 }
