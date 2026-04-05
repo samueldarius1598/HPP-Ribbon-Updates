@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.11",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.11/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.11\nPerbaikan HolyPOS Sales per Bill agar tidak memicu Out of memory saat note diawali karakter formula-like seperti =, +, -, atau @.\nPerbaikan penulisan sheet Sales untuk payload outlet ramai seperti Bogor Cabin agar proses selesai penuh tanpa berhenti di tengah write.\nPerbaikan URL manifest self-update agar membaca endpoint raw GitHub yang konsisten di /main/update.json.\nPesan error diperjelas saat proses gagal sebelum data sheet Sales sempat diperbarui.",
+  "version": "3.4.12",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.12/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.12\nSinkronisasi release GitHub dengan build repo terbaru per 5 April 2026.\nMemuat perubahan source lokal terbaru setelah rilis GitHub v3.4.11, termasuk modul Item Journal terkait Odoo.\nMenyelaraskan artifact repo, manifest update, binary GitHub, dan runtime lokal agar kembali identik.",
   "forceUpdate": false
 }
