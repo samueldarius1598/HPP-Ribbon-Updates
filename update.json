@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.12",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.12/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.12\nSinkronisasi release GitHub dengan build repo terbaru per 5 April 2026.\nMemuat perubahan source lokal terbaru setelah rilis GitHub v3.4.11, termasuk modul Item Journal terkait Odoo.\nMenyelaraskan artifact repo, manifest update, binary GitHub, dan runtime lokal agar kembali identik.",
+  "version": "3.4.13",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.13/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.13\n- Perbaikan pengecekan effective lock date pada flow Upload Internal Transfer dan prepare.\n- Prepare sekarang gagal lebih awal jika tanggal sama dengan lock date aktif.\n- False warning action_post/result=False tidak lagi ditampilkan bila jurnal STJ sudah terverifikasi posted.",
   "forceUpdate": false
 }
