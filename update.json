@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.15",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.15/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Perbaikan Loading Progress Bar untuk Stock Move dan Sales, dan penambahan fitur Action untuk Unggah Odoo! Mutation Out dan Berita Acara",
+  "version": "3.4.16",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.16/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.16\nPerbaikan progress bar Dashboard.\nPerbaikan format desimal Dashboard.",
   "forceUpdate": false
 }
