@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.16",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.16/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.16\nPerbaikan progress bar Dashboard.\nPerbaikan format desimal Dashboard.",
+  "version": "3.4.17",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.17/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Penambahan Konfirmasi range tanggal standard untuk internal transfer standard HPP, menambahkan Payload Analytics Distribution ke semua Action Upload Odoo!",
   "forceUpdate": false
 }
