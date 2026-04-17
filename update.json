@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.17",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.17/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Penambahan Konfirmasi range tanggal standard untuk internal transfer standard HPP, menambahkan Payload Analytics Distribution ke semua Action Upload Odoo!",
+  "version": "3.4.19",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.19/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.19\nPerbaikan Fitur Approve Stock Item Journal dengan menghilangkan batas waktu 30 detik untuk approval.",
   "forceUpdate": false
 }
