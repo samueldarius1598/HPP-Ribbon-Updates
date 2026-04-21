@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.19",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.19/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.19\nPerbaikan Fitur Approve Stock Item Journal dengan menghilangkan batas waktu 30 detik untuk approval.",
+  "version": "3.4.20",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.20/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.20\nPerbaikan range tanggal penyusunan Item Journal Internal Transfer: pilihan Area Pengurusan memakai blok Sales kuning dan pilihan Area Full Month memakai blok Sales ungu, termasuk filter tanggal sesuai konfirmasi user. Tanggal kolom A Item Journal kini memakai tanggal terbesar yang valid dari range Sales yang dipilih dan tidak melewati tanggal hari ini. Expenses juga mengikuti window tanggal pilihan user.",
   "forceUpdate": false
 }
