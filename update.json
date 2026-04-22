@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.20",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.20/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.20\nPerbaikan range tanggal penyusunan Item Journal Internal Transfer: pilihan Area Pengurusan memakai blok Sales kuning dan pilihan Area Full Month memakai blok Sales ungu, termasuk filter tanggal sesuai konfirmasi user. Tanggal kolom A Item Journal kini memakai tanggal terbesar yang valid dari range Sales yang dipilih dan tidak melewati tanggal hari ini. Expenses juga mengikuti window tanggal pilihan user.",
+  "version": "3.4.21",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.21/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.21\nPerbaikan Upload Odoo untuk Mutation Out dan Berita Acara.\n\n- Mutation Out kini lebih tahan terhadap kondisi Goods Receipt tujuan yang belum otomatis terbentuk di Odoo, dengan fallback pembuatan GR tujuan agar proses tidak berhenti pada error 'Goods Receipt tujuan belum ditemukan'.\n- Output Error User Mutation Out dibersihkan agar tidak menampilkan informasi recovery internal ketika upload berhasil.\n- Berita Acara kini memakai userform Run Info sebagai satu-satunya notifikasi akhir, sehingga user cukup klik OK di userform tanpa popup MsgBox tambahan.\n- Form konfigurasi outlet/range ditambahkan pilihan database Dummy/Live untuk menggantikan akses manual ke DB Override.",
   "forceUpdate": false
 }
