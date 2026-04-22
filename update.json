@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.21",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.21/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.21\nPerbaikan Upload Odoo untuk Mutation Out dan Berita Acara.\n\n- Mutation Out kini lebih tahan terhadap kondisi Goods Receipt tujuan yang belum otomatis terbentuk di Odoo, dengan fallback pembuatan GR tujuan agar proses tidak berhenti pada error 'Goods Receipt tujuan belum ditemukan'.\n- Output Error User Mutation Out dibersihkan agar tidak menampilkan informasi recovery internal ketika upload berhasil.\n- Berita Acara kini memakai userform Run Info sebagai satu-satunya notifikasi akhir, sehingga user cukup klik OK di userform tanpa popup MsgBox tambahan.\n- Form konfigurasi outlet/range ditambahkan pilihan database Dummy/Live untuk menggantikan akses manual ke DB Override.",
+  "version": "3.4.22",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.22/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.22\nPerbaikan tampilan tombol Jalankan pada konfirmasi Upload Odoo.\n\n- Tombol Jalankan kini menampilkan icon Upload Odoo yang lebih jelas pada form konfirmasi Upload Odoo.\n- Icon tidak lagi ditempel langsung ke CommandButton agar tidak rusak/kecil oleh rendering bawaan MSForms.\n- Kondisi READY menampilkan icon berwarna.\n- Kondisi BLOCKED tetap menampilkan icon dalam versi abu-abu, bukan menghilangkan icon sepenuhnya.",
   "forceUpdate": false
 }
