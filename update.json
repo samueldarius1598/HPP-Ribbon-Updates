@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.22",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.22/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.22\nPerbaikan tampilan tombol Jalankan pada konfirmasi Upload Odoo.\n\n- Tombol Jalankan kini menampilkan icon Upload Odoo yang lebih jelas pada form konfirmasi Upload Odoo.\n- Icon tidak lagi ditempel langsung ke CommandButton agar tidak rusak/kecil oleh rendering bawaan MSForms.\n- Kondisi READY menampilkan icon berwarna.\n- Kondisi BLOCKED tetap menampilkan icon dalam versi abu-abu, bukan menghilangkan icon sepenuhnya.",
+  "version": "3.4.23",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.23/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.23\nPerbaikan copy/paste Excel: event ribbon sekarang tidak menjalankan refresh ribbon atau auto-sync konfigurasi saat Excel sedang dalam mode Copy/Cut, sehingga Paste Values tetap bisa digunakan setelah berpindah sheet atau workbook.",
   "forceUpdate": false
 }
