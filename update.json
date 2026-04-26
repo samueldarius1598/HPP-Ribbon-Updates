@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.23",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.23/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.23\nPerbaikan copy/paste Excel: event ribbon sekarang tidak menjalankan refresh ribbon atau auto-sync konfigurasi saat Excel sedang dalam mode Copy/Cut, sehingga Paste Values tetap bisa digunakan setelah berpindah sheet atau workbook.",
+  "version": "3.4.24",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.24/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Perbaikan Format dan Agregasi Sheet Sales, Perbaikan Cache List Outlet Konfigurasi, penambahan syarat masuknya item ke Dashboard",
   "forceUpdate": false
 }
