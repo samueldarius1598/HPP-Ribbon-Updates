@@ -2,6 +2,6 @@
   "appId": "smartsCCHPPMaster",
   "version": "3.4.25",
   "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.25/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.25\nPenambahan kolom Inventory type dan Move type, dan penambahan fitur auto update Recipe yang sudah di perbarui di sheet Recipe",
+  "releaseNotes": "Versi 3.4.25\nPenambahan kolom Inventory type dan Move type, dan penambahan fitur auto update Recipe yang sudah di perbarui di sheet \"Recipe\"",
   "forceUpdate": false
 }
