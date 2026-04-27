@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.26",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.26/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Stock Movement: kolom Move Type (E) sekarang terisi otomatis (PURCHASE, INTERNAL TRANSFER, INTERCOMPANY TRANSFER, PURCHASE RETURN). Kolom Origin & Destination diperbaiki sesuai arah transaksi IN/OUT/Intercompany. Perbaikan bug data bocor antar baris.",
+  "version": "3.4.27",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.27/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Penambahan Cost dan Total Cost di sheet Sales, dan total COGS pada Menu",
   "forceUpdate": false
 }
