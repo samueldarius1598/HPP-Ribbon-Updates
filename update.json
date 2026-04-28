@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.27",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.27/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Penambahan Cost dan Total Cost di sheet Sales, dan total COGS pada Menu",
+  "version": "3.4.28",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.28/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Dukungan HolyPOS multi-host untuk holywings, apac1, dan atlas; Outlet Picker sekarang menyimpan HolyPOS DB dari GAS mapping, Sales per Bill otomatis memilih host API berdasarkan DB tersebut, sinkronisasi master outlet mengambil data dari 3 host, perbaikan compile check schema/runtime konfigurasi, dan peningkatan auto-deteksi perubahan Stock Movement untuk Prepare Dashboard.",
   "forceUpdate": false
 }
