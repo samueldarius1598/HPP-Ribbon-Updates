@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.32",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.32/smartsCCHPPMaster.xlam",
-  "releaseNotes": "v3.4.32\n\nConfig Reference Health Check: validasi ID mapping GAS (Company/ESB/HolyPOS) terhadap daftar lokal sebelum simpan konfigurasi outlet; refresh hanya sumber yang kurang; konflik data master diblok.\n\nPersistent Sync TTL: timestamp sync disimpan ke XFD3 workbook sehingga TTL 3 jam tetap valid meski workbook ditutup dan dibuka ulang.",
+  "version": "3.4.33",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.33/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.33\n- Expenses: Menambahkan item-item yang tidak masuk kedalam direct expenses\n- Fix: format angka Cost/Total Cost tampil Swiss (apostrophe) akibat Excel separator override",
   "forceUpdate": false
 }
