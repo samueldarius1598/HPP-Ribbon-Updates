@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.31",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.31/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Peningkatan penanganan format angka dan tanggal regional, sehingga Excel menampilkan nilai sesuai pengaturan lokal masing-masing user sementara upload ke Odoo tetap standar dan lebih aman dari input angka/tanggal berbasis teks yang ambigu.",
+  "version": "3.4.32",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.32/smartsCCHPPMaster.xlam",
+  "releaseNotes": "v3.4.32\n\nConfig Reference Health Check: validasi ID mapping GAS (Company/ESB/HolyPOS) terhadap daftar lokal sebelum simpan konfigurasi outlet; refresh hanya sumber yang kurang; konflik data master diblok.\n\nPersistent Sync TTL: timestamp sync disimpan ke XFD3 workbook sehingga TTL 3 jam tetap valid meski workbook ditutup dan dibuka ulang.",
   "forceUpdate": false
 }
