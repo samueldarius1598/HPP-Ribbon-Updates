@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.30",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.30/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.30\nPerbaikan format angka lintas regional Excel untuk Sales, Dashboard, dan Item Journal. Angka sekarang memakai format locale-neutral agar separator ribuan/desimal tetap benar di laptop dengan setting region berbeda.",
+  "version": "3.4.31",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.31/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Peningkatan penanganan format angka dan tanggal regional, sehingga Excel menampilkan nilai sesuai pengaturan lokal masing-masing user sementara upload ke Odoo tetap standar dan lebih aman dari input angka/tanggal berbasis teks yang ambigu.",
   "forceUpdate": false
 }
