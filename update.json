@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.33",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.33/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.33\n- Expenses: Menambahkan item-item yang tidak masuk kedalam direct expenses\n- Fix: format angka Cost/Total Cost tampil Swiss (apostrophe) akibat Excel separator override",
+  "version": "3.4.34",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.34/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.34\nPeningkatan reliabilitas Unggah Odoo: upload Berita Acara lebih aman dari risiko validasi ganda saat timeout, detail error Odoo lebih jelas untuk investigasi, dan sheet Item Journal dengan header lama di baris 1 otomatis dibersihkan sebelum dibuat ulang.",
   "forceUpdate": false
 }
