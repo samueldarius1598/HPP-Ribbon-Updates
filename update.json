@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.34",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.34/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.34\nPeningkatan reliabilitas Unggah Odoo: upload Berita Acara lebih aman dari risiko validasi ganda saat timeout, detail error Odoo lebih jelas untuk investigasi, dan sheet Item Journal dengan header lama di baris 1 otomatis dibersihkan sebelum dibuat ulang.",
+  "version": "3.4.35",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.35/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.35\n\nPeningkatan tampilan UserForm Upload Odoo agar lebih rapi dan mudah dibaca: dialog konfirmasi diperbaiki spacing/footer/scroll-nya, progres upload kini memakai checkpoint cardlets dengan status warna, detail proses dibuat fixed-height dengan scrollbar agar form tidak memanjang, dan runtime lokal sudah diinstall untuk flow Item Journal, Mutation Out, dan Berita Acara.\n\nPeningkatan kompatibilitas Prepare Dashboard terhadap pengaturan separator formula Excel, sehingga formula Dashboard termasuk ringkasan duplikat di C2 dapat dipasang dengan benar pada user yang memakai separator koma (,) maupun titik koma (;).",
   "forceUpdate": false
 }
