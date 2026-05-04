@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.37",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.37/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Peningkatan reliabilitas Upload Berita Acara agar angka qty tetap dikirim ke Odoo dalam format JSON standar di berbagai kombinasi separator Excel/Windows, sehingga error Invalid JSON data saat create Stock Item Journal dapat dihindari.",
+  "version": "3.4.38",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.38/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Peningkatan proses update ribbon agar instalasi add-in lebih tahan di berbagai konfigurasi Windows: updater kini tidak gagal hanya karena Unblock-File atau restart Excel otomatis bermasalah, dan memakai path Excel aktif saat membuka kembali workbook setelah update.",
   "forceUpdate": false
 }
