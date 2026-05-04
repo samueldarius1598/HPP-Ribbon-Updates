@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.36",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.36/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.36\n\nPerbaikan tambahan Prepare Dashboard agar formula biaya WIP juga tahan terhadap pengaturan separator formula koma (,) maupun titik koma (;), serta pesan gagal sekarang menampilkan tahap proses dan detail error agar masalah di workbook user lebih mudah ditelusuri.",
+  "version": "3.4.37",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.37/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Peningkatan reliabilitas Upload Berita Acara agar angka qty tetap dikirim ke Odoo dalam format JSON standar di berbagai kombinasi separator Excel/Windows, sehingga error Invalid JSON data saat create Stock Item Journal dapat dihindari.",
   "forceUpdate": false
 }
