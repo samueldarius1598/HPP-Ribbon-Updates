@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.38",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.38/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Peningkatan proses update ribbon agar instalasi add-in lebih tahan di berbagai konfigurasi Windows: updater kini tidak gagal hanya karena Unblock-File atau restart Excel otomatis bermasalah, dan memakai path Excel aktif saat membuka kembali workbook setelah update.",
+  "version": "3.4.39",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.39/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.39\nPerbaikan validasi daftar referensi konfigurasi agar range ESB slot 1 dan slot 2, Odoo, serta HolyPOS menyesuaikan baris data terakhir masing-masing blok, sehingga pemilihan outlet seperti LIL TIGER PIK tidak gagal karena daftar ESB terpotong atau terbaca dari blok yang salah.",
   "forceUpdate": false
 }
