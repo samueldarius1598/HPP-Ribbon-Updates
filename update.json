@@ -2,6 +2,6 @@
   "appId": "smartsCCHPPMaster",
   "version": "3.4.39",
   "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.39/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.39\nPerbaikan validasi daftar referensi konfigurasi agar range ESB slot 1 dan slot 2, Odoo, serta HolyPOS menyesuaikan baris data terakhir masing-masing blok, sehingga pemilihan outlet seperti LIL TIGER PIK tidak gagal karena daftar ESB terpotong atau terbaca dari blok yang salah.",
+  "releaseNotes": "Versi 3.4.39: Clear Filter kini tersedia di Tools untuk membersihkan filter sheet aktif, Item Journal tetap diproteksi dengan aman, dan upload Berita Acara kini hanya melewati jurnal untuk selisih qty sangat kecil di bawah 0,01.",
   "forceUpdate": false
 }
