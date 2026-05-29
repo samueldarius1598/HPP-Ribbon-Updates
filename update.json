@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.40",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.40/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.40: Clear Filter kini tersedia di Tools untuk membersihkan filter sheet aktif, Item Journal tetap diproteksi dengan aman, dan upload Berita Acara kini hanya melewati jurnal untuk selisih qty sangat kecil di bawah 0,01.",
+  "version": "3.4.41",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.41/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.41: Item Journal kini menampilkan metadata expenses W:AA secara terbuka dan memindahkan Output Error ke AB, sehingga delete row penuh lebih aman sementara precheck upload tetap menghentikan metadata yang tidak cocok.",
   "forceUpdate": false
 }
