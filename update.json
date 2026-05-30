@@ -2,6 +2,6 @@
   "appId": "smartsCCHPPMaster",
   "version": "3.4.43",
   "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.43/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.43\nPerbaikan Mutation Out: pencocokan destination company kini toleran terhadap karakter tak terlihat (mis. U+2060 di depan ENTRECOTE & FRITES). Cukup tulis nama outlet normal, tidak perlu menyalin karakter tersembunyi dari Odoo.",
+  "releaseNotes": "Versi 3.4.43\nPerbaikan Mutation Out: pencocokan destination company kini toleran terhadap karakter tak terlihat (mis. U+2060 di depan ENTRECOTE & FRITES). Cukup tulis nama outlet normal, tidak perlu menyalin karakter tersembunyi dari Odoo.\nDistribusi: VBA project terkunci (password-protected).",
   "forceUpdate": false
 }
