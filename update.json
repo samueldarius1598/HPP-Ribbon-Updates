@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.41",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.41/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.41: Item Journal kini menampilkan metadata expenses W:AA secara terbuka dan memindahkan Output Error ke AB, sehingga delete row penuh lebih aman sementara precheck upload tetap menghentikan metadata yang tidak cocok.",
+  "version": "3.4.42",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.42/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.42: Pembukaan workbook HPP kini lebih cepat karena sinkronisasi konfigurasi memakai cache lokal 24 jam, cache harga dan standard cost lintas workbook dipakai ulang lebih konsisten, dan workbook lama yang masih memiliki sheet protection otomatis dibuka tanpa prompt password.",
   "forceUpdate": false
 }
