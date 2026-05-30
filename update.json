@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.42",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.42/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.42: Pembukaan workbook HPP kini lebih cepat karena sinkronisasi konfigurasi memakai cache lokal 24 jam, cache harga dan standard cost lintas workbook dipakai ulang lebih konsisten, dan workbook lama yang masih memiliki sheet protection otomatis dibuka tanpa prompt password.",
+  "version": "3.4.43",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.43/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.43\nPerbaikan Mutation Out: pencocokan destination company kini toleran terhadap karakter tak terlihat (mis. U+2060 di depan ENTRECOTE & FRITES). Cukup tulis nama outlet normal, tidak perlu menyalin karakter tersembunyi dari Odoo.",
   "forceUpdate": false
 }
