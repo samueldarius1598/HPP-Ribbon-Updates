@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.43",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.43/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.43\nPerbaikan Mutation Out: pencocokan destination company kini toleran terhadap karakter tak terlihat (mis. U+2060 di depan ENTRECOTE & FRITES). Cukup tulis nama outlet normal, tidak perlu menyalin karakter tersembunyi dari Odoo.\nDistribusi: VBA project terkunci (password-protected).",
+  "version": "3.4.44",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.44/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Peningkatan keandalan upload Item Journal agar cost produk tidak salah terbaca 0 saat data produk Odoo duplikat/tidak selaras, serta add-in kini otomatis cek update saat Excel dibuka dan mendukung update wajib.",
   "forceUpdate": false
 }
