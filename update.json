@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.47",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.47/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.47: Check for Updates kini mendistribusikan paket worker Sales HolyPOS bersama XLAM, termasuk verifikasi SHA-256 dan pemasangan otomatis ke LOCALAPPDATA. Tombol Sales HolyPOS juga dapat memasang worker otomatis saat worker belum tersedia, lalu memakai jalur worker untuk request API paralel dan agregasi berat.",
+  "version": "3.4.48",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.48/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.48: UserForm Sales HolyPOS kini menampilkan activity text bergantian saat proses worker/API berjalan, sehingga proses panjang tetap terlihat aktif tanpa menambah re-render berat pada ringkasan.",
   "forceUpdate": false,
   "workerVersion": "0.1.0",
   "workerPlatform": "win-x64",
-  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.47/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "workerSha256": "03E5999AA1D0058DDA743F7C370D86A9CF1EF50E242CEBCC94D01D287435A705"
+  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.48/smartcc-hpp-worker-v0.1.0-win-x64.zip",
+  "workerSha256": "DFC3086E085ABF62F1340492F2D10905A602392B4EA4BCB5418E5AD60E4CDF98"
 }
