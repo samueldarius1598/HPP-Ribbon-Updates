@@ -1,7 +1,7 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.45",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.45/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.45\n- Fix: sanitasi invisible Unicode di semua text-lookup ke Odoo -- hapus U+2060/200B/200C/200D/FEFF/00AD dan ganti U+00A0/2028/2029/202F jadi spasi; mengatasi company exact-match gagal untuk nama seperti ENTRECOTE & FRITES yang mengandung Word Joiner tersembunyi\n- Fix: ResolveCompany di Berita Acara kini strip invisible chars sebelum domain exact-match (=)\n- Fix: GetLocationIdCached normalize locName sebelum cache key dan query location exact-match\n- Refactor: StripInvisibleUnicode() ditambahkan ke mdlUtilitasHPPWBExcel sebagai implementasi tunggal; semua NormalizeText/NormalizeConfigText/NormalizeLookupText di 7 modul delegasi ke sana",
+  "version": "3.4.46",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.46/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.46: Penarikan Sales HolyPOS kini memakai worker lokal saat tersedia untuk request API paralel dan agregasi berat, sehingga Excel lebih ringan pada data besar. Jika worker belum terpasang, proses otomatis kembali ke jalur VBA lama.",
   "forceUpdate": false
 }
