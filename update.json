@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.51",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.51/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.51: Hotfix installer manual protected dan perbaikan compile worker runtime. Rename variable yang bentrok dengan WorkerExePath, tambah preflight name-collision di build, dan pastikan XLAM distribusi terkunci.",
+  "version": "3.4.52",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.52/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.52\n- Mempercepat penulisan Sales HolyPOS ke sheet Sales dengan chunk besar 20.000 baris, menggantikan chunk 100 baris yang membuat dataset besar sangat lambat.\n- Menambahkan timing log untuk prompt paste partial supaya waktu tunggu user tidak terlihat sebagai proses Excel yang berjalan.",
   "forceUpdate": true,
   "workerVersion": "0.1.0",
   "workerPlatform": "win-x64",
-  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.51/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "workerSha256": "053A68345E546B647317123875B78FDD50FF20DCAC3E3957AD59CE00419C0F3F"
+  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.52/smartcc-hpp-worker-v0.1.0-win-x64.zip",
+  "workerSha256": "2787E1EEE3812825B2DBFC3439E6417F82882890C50A617027E6725233F5B637"
 }
