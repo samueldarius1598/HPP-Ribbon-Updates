@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.48",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.48/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.48: UserForm Sales HolyPOS kini menampilkan activity text bergantian saat proses worker/API berjalan, sehingga proses panjang tetap terlihat aktif tanpa menambah re-render berat pada ringkasan.",
+  "version": "3.4.49",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.49/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.49: Hotfix stabilitas startup add-in setelah distribusi worker Sales HolyPOS; self-update tidak lagi dipanggil saat ribbon load sehingga variasi Office user tidak memunculkan compile error hidden module saat membuka Excel.",
   "forceUpdate": false,
   "workerVersion": "0.1.0",
   "workerPlatform": "win-x64",
-  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.48/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "workerSha256": "DFC3086E085ABF62F1340492F2D10905A602392B4EA4BCB5418E5AD60E4CDF98"
+  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.49/smartcc-hpp-worker-v0.1.0-win-x64.zip",
+  "workerSha256": "F739D190356689EBF30E8B7FAC5EBCE1559518A3DE7931FA1C72F3A879639EDB"
 }
