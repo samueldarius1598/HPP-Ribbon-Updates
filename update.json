@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.49",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.49/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.49: Hotfix stabilitas startup add-in setelah distribusi worker Sales HolyPOS; self-update tidak lagi dipanggil saat ribbon load sehingga variasi Office user tidak memunculkan compile error hidden module saat membuka Excel.",
+  "version": "3.4.50",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.50/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.50: Mengembalikan auto-check startup dengan checker ringan yang hanya membaca manifest secara defensif. Updater penuh baru dipanggil eksplisit saat versi remote lebih baru, sehingga ribbon load tidak bergantung pada mdlSelfUpdate, JsonConverter, atau installer worker.",
   "forceUpdate": false,
   "workerVersion": "0.1.0",
   "workerPlatform": "win-x64",
-  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.49/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "workerSha256": "F739D190356689EBF30E8B7FAC5EBCE1559518A3DE7931FA1C72F3A879639EDB"
+  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.50/smartcc-hpp-worker-v0.1.0-win-x64.zip",
+  "workerSha256": "FEB3AFA7E59FAE92C9390367C61B9BB89588DF9A63C30259910AA0AE3E888DC1"
 }
