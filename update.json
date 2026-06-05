@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.53",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.53/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.53: Sales HolyPOS kini memakai progress WebView2 dengan tampilan HolyPOS, tombol Start/Pause/Resume, informasi range periode yang lebih jelas, serta penulisan data Sales yang lebih ringan agar proses tarik dan tulis data lebih nyaman dipantau oleh user.",
+  "version": "3.4.54",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.54/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.54: Sales HolyPOS kini memakai progress WebView2 dengan tampilan HolyPOS, tombol Start/Pause/Resume, informasi range periode yang lebih jelas, dan paket update sudah menyertakan WebUI host agar user baru dapat memakai tampilan progress ini langsung dari updater resmi.",
   "forceUpdate": false,
   "workerVersion": "0.1.0",
   "workerPlatform": "win-x64",
-  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.53/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "workerSha256": "1E8BAB932373E2F7F9E8F29FBD02FE95085D492724325B2723ACEA3A9DF1C062"
+  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.54/smartcc-hpp-worker-v0.1.0-win-x64.zip",
+  "workerSha256": "9986BF06E625C472ED2382859458015CB76ED552DAD6005A6E82F82BC6317369"
 }
