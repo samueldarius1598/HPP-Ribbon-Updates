@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.4.52",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.52/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.4.52\n- Mempercepat penulisan Sales HolyPOS ke sheet Sales dengan chunk besar 20.000 baris, menggantikan chunk 100 baris yang membuat dataset besar sangat lambat.\n- Menambahkan timing log untuk prompt paste partial supaya waktu tunggu user tidak terlihat sebagai proses Excel yang berjalan.",
-  "forceUpdate": true,
+  "version": "3.4.53",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.53/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.4.53: Sales HolyPOS kini memakai progress WebView2 dengan tampilan HolyPOS, tombol Start/Pause/Resume, informasi range periode yang lebih jelas, serta penulisan data Sales yang lebih ringan agar proses tarik dan tulis data lebih nyaman dipantau oleh user.",
+  "forceUpdate": false,
   "workerVersion": "0.1.0",
   "workerPlatform": "win-x64",
-  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.52/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "workerSha256": "2787E1EEE3812825B2DBFC3439E6417F82882890C50A617027E6725233F5B637"
+  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.4.53/smartcc-hpp-worker-v0.1.0-win-x64.zip",
+  "workerSha256": "1E8BAB932373E2F7F9E8F29FBD02FE95085D492724325B2723ACEA3A9DF1C062"
 }
