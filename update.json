@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.0",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.0/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.0\nPeningkatan performa dengan teknologi C# (.NET 8): konfigurasi Client Side dan penarikan data Sales dari HolyPOS kini dijalankan via worker C# — lebih cepat dan stabil",
+  "version": "3.5.1",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.1/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.1\nFix: tombol Check for Updates tidak lagi menyebabkan Excel freeze / Not Responding / crash\nDownload worker bundle (100MB) dan XLAM kini dilakukan di background PowerShell setelah Excel tutup, bukan di VBA thread",
   "forceUpdate": false,
   "workerVersion": "0.1.0",
   "workerPlatform": "win-x64",
-  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.0/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "workerSha256": "1FB3D2089F63643A1E0B1F230680E883E88079F8A8F55CEB409D29D74181768A"
+  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.1/smartcc-hpp-worker-v0.1.0-win-x64.zip",
+  "workerSha256": "03AC690129112AF7FA76CCD7E8C5E4191260F79D35FDC76A778002E0E288F8B8"
 }
