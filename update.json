@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.1",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.1/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.1\nFix: tombol Check for Updates tidak lagi menyebabkan Excel freeze / Not Responding / crash\nDownload worker bundle (100MB) dan XLAM kini dilakukan di background PowerShell setelah Excel tutup, bukan di VBA thread",
+  "version": "3.5.2",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.2/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.2\nBootstrap safety: update dari v3.4.54 kini aman — kode lama tidak lagi men-download worker bundle 100MB saat update XLAM\nJSON key worker di update.json diganti ke csharpWorker* agar kode lama melewati download worker",
   "forceUpdate": false,
-  "workerVersion": "0.1.0",
-  "workerPlatform": "win-x64",
-  "workerDownloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.1/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "workerSha256": "03AC690129112AF7FA76CCD7E8C5E4191260F79D35FDC76A778002E0E288F8B8"
+  "csharpWorkerVersion": "0.1.0",
+  "csharpWorkerPlatform": "win-x64",
+  "csharpWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.2/smartcc-hpp-worker-v0.1.0-win-x64.zip",
+  "csharpWorkerSha256": "B60485FEFEDA3684361873BB270FD5411F6E5D095391A8749C9C8CC1C7DCA061"
 }
