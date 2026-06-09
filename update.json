@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.3",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.3/smartsCCHPPMaster.xlam",
-  "releaseNotes": "v3.5.3\nPerforma: cache healthcheck worker (file-size fingerprint) - skip WMI cold-start 3-10 detik saat klik Sales HolyPOS; run pertama tetap healthcheck penuh dan tulis cache, run berikutnya langsung lanjut.",
+  "version": "3.5.4",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.4/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Fix: ApplyConfigClientSideLayout dipanggil tiap klik tombol — skip repair layout bila schema stamp sudah cocok. ws.Cells.WrapText + ws.Calculate pada config sheet menyebabkan delay 3 menit setiap klik Sales HolyPOS.",
   "forceUpdate": false,
   "csharpWorkerVersion": "0.1.0",
   "csharpWorkerPlatform": "win-x64",
-  "csharpWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.3/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "csharpWorkerSha256": "98A8494799C5E32A858A8F3553477B07C206AECB54C22CC059CB51D00C836B84"
+  "csharpWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.4/smartcc-hpp-worker-v0.1.0-win-x64.zip",
+  "csharpWorkerSha256": "DB69156B064128A8306BA15D8F5B18F297CB0A0D264805104DC496CA2D1FF560"
 }
