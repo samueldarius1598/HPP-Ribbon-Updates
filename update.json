@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.9",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.9/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.9: Logo netral WebView2 untuk Version Info dan Sinkronisasi Konfigurasi diganti ke Smart's CC branding. Worker/WebView2 0.1.3 memastikan runtime baru diunduh menggantikan bundle 0.1.2.",
+  "version": "3.5.10",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.10/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.10: Layout bootstrap runtime diperbaiki mengikuti standar UserForm; footer tombol tidak lagi terpotong dan memakai footer band dengan tombol 28pt.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.3",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.9/smartcc-hpp-worker-v0.1.3-win-x64.zip",
-  "runtimeWorkerSha256": "25714E4C55F4C9D9BEB94DC2E8111E3F69EA031C611BF2570EED74FCCB0EDD71"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.10/smartcc-hpp-worker-v0.1.3-win-x64.zip",
+  "runtimeWorkerSha256": "CD861436CA0BAA77881388633F2FEC2E56B9208E109FBF42F8527258BE50211E"
 }
