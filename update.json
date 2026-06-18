@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.12",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.12/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.12: Resolver WebView2 runtime diperbaiki agar Version Info, Sinkronisasi Konfigurasi, dan UI progress tetap memakai runtime lokal lama yang kompatibel saat worker required baru belum selesai terpasang; fallback UserForm hanya dipakai bila tidak ada WebView2 runtime minimal v0.1.3.",
+  "version": "3.5.13",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.13/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.13: HolyPOS dan helper worker konfigurasi diselaraskan ke runtime v0.1.4. Jika worker belum ada, helper konfigurasi sekarang mencoba install runtime via PowerShell dari manifest sebelum fallback ke jalur VBA lama.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.4",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.12/smartcc-hpp-worker-v0.1.4-win-x64.zip",
-  "runtimeWorkerSha256": "F3940F4A8086588E02192ACD5490F3EA3CC5C7149DE004F0B8458A5462573116"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.13/smartcc-hpp-worker-v0.1.4-win-x64.zip",
+  "runtimeWorkerSha256": "A4561B8D8894D5C67FF4B1CE89318F4BA461A31A4C8F68F4DAD59F0668A36E20"
 }
