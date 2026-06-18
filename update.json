@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.10",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.10/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.10: Layout bootstrap runtime diperbaiki mengikuti standar UserForm; footer tombol tidak lagi terpotong dan memakai footer band dengan tombol 28pt.",
+  "version": "3.5.11",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.11/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.11: Worker/WebView2 runtime dinaikkan ke v0.1.4 untuk mengetes flow download runtime baru secara nyata melalui btnCheckForUpdates; XLAM tetap memakai layout bootstrap runtime yang sudah distandarkan.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.3",
+  "runtimeWorkerVersion": "0.1.4",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.10/smartcc-hpp-worker-v0.1.3-win-x64.zip",
-  "runtimeWorkerSha256": "CD861436CA0BAA77881388633F2FEC2E56B9208E109FBF42F8527258BE50211E"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.11/smartcc-hpp-worker-v0.1.4-win-x64.zip",
+  "runtimeWorkerSha256": "719EDCB2A0C51619327B82753A195E4BF68F8026EBB183FACB939B8A20827859"
 }
