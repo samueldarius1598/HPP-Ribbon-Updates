@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.5",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.5/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.5\n- Sales HolyPOS: jeda setelah klik tombol hingga Start siap turun dari +-2 menit menjadi +-2 detik (perbaikan penyalinan array Recipe per panggilan + kalkulasi workbook dimatikan sejak awal klik ribbon).\n- Download worker kini dijalankan PowerShell + curl (resume + retry); Excel tidak lagi freeze saat mengunduh bundle +-100 MB, progres unduhan tampil di status bar.\n- Pesan progres dibedakan: 'Web UI siap' (window tampil) vs 'Persiapan data selesai' (siap tekan Start).",
-  "forceUpdate": true,
-  "csharpWorkerVersion": "0.1.0",
-  "csharpWorkerPlatform": "win-x64",
-  "csharpWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.5/smartcc-hpp-worker-v0.1.0-win-x64.zip",
-  "csharpWorkerSha256": "28ABAB14BBA8F74D21AC0A7D96C61ACC244A9EF85A868CA1633DDDF8E3B2F3C7"
+  "version": "3.5.6",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.6/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.6: Update XLAM lebih cepat; worker/WebView2 0.1.1 dipasang terpisah setelah XLAM baru aktif.",
+  "forceUpdate": false,
+  "runtimeWorkerVersion": "0.1.1",
+  "runtimeWorkerPlatform": "win-x64",
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.6/smartcc-hpp-worker-v0.1.1-win-x64.zip",
+  "runtimeWorkerSha256": "546002F668DDE95661B4ACA065A169CA6878EC0EADC155F758FF0C43B8D3948A"
 }
