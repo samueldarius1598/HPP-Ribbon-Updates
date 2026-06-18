@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.13",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.13/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.13: HolyPOS dan helper worker konfigurasi diselaraskan ke runtime v0.1.4. Jika worker belum ada, helper konfigurasi sekarang mencoba install runtime via PowerShell dari manifest sebelum fallback ke jalur VBA lama.",
+  "version": "3.5.14",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.14/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.14: Perbaikan Stock Movement agar btnGRAll tetap kembali ke sheet yang sedang aktif setelah membuat atau menulis sheet Stock Movement, sehingga proses tarik Odoo/ESB tidak meninggalkan Excel di sheet baru.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.4",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.13/smartcc-hpp-worker-v0.1.4-win-x64.zip",
-  "runtimeWorkerSha256": "A4561B8D8894D5C67FF4B1CE89318F4BA461A31A4C8F68F4DAD59F0668A36E20"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.14/smartcc-hpp-worker-v0.1.4-win-x64.zip",
+  "runtimeWorkerSha256": "B61314FEF08E11F403261D7D7AADE5324368F470B140A20EA02128CA6F1160E3"
 }
