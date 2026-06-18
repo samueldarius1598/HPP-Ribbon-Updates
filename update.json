@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.6",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.6/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.6: Update XLAM lebih cepat; worker/WebView2 0.1.1 dipasang terpisah setelah XLAM baru aktif.",
+  "version": "3.5.7",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.7/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.7: Version Info kini memakai WebView2 dengan status runtime worker lokal, tombol admin, log, dan fallback install runtime. Worker/WebView2 0.1.2 membawa UI App Info terbaru.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.1",
+  "runtimeWorkerVersion": "0.1.2",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.6/smartcc-hpp-worker-v0.1.1-win-x64.zip",
-  "runtimeWorkerSha256": "546002F668DDE95661B4ACA065A169CA6878EC0EADC155F758FF0C43B8D3948A"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.7/smartcc-hpp-worker-v0.1.2-win-x64.zip",
+  "runtimeWorkerSha256": "BBB58EE8BC3C1E6AA07B6410BCA55957AC8CCDABD5F0491A229CD9303A5EE112"
 }
