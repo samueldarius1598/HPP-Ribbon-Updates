@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.14",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.14/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.14: Perbaikan Stock Movement agar btnGRAll tetap kembali ke sheet yang sedang aktif setelah membuat atau menulis sheet Stock Movement, sehingga proses tarik Odoo/ESB tidak meninggalkan Excel di sheet baru.",
+  "version": "3.5.15",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.15/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.15: Tombol Update pada Konfigurasi kini selalu mengambil ulang Mapping Outlet langsung dari GAS, sehingga perubahan mapping terbaru tidak lagi tertahan oleh cache lokal.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.4",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.14/smartcc-hpp-worker-v0.1.4-win-x64.zip",
-  "runtimeWorkerSha256": "B61314FEF08E11F403261D7D7AADE5324368F470B140A20EA02128CA6F1160E3"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.15/smartcc-hpp-worker-v0.1.4-win-x64.zip",
+  "runtimeWorkerSha256": "37F8A8FCF429A99B818560B5AE9025E51B824698C043AD57E8F3FCD7099C6FC7"
 }
