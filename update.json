@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.17",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.17/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.17: Tombol Update Konfigurasi kini selalu menarik ulang Mapping Outlet langsung dari GAS, sementara Refresh Recipe tetap berjalan hanya setelah perubahan pada Recipe A:G atau melalui tombol manual.",
+  "version": "3.5.18",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.18/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.18: Dempet Sales HolyPOS kini menarik data multi-outlet melalui worker/WebView2, sehingga proses gabung outlet lebih cepat, respons Excel lebih ringan, dan hasil penarikan tetap mengikuti mapping outlet yang dipilih.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.4",
+  "runtimeWorkerVersion": "0.1.5",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.17/smartcc-hpp-worker-v0.1.4-win-x64.zip",
-  "runtimeWorkerSha256": "C5BBC1A02BA4189129FC786CA1F6F29DE5ECEFD9791B5D59491858C9EFDE9834"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.18/smartcc-hpp-worker-v0.1.5-win-x64.zip",
+  "runtimeWorkerSha256": "594C32D25DD7DAA3F0AAB5349BDD6121A811B0BF3A6F9C985A4AFD27471B2B6E"
 }
