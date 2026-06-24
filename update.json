@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.18",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.18/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.18: Dempet Sales HolyPOS kini menarik data multi-outlet melalui worker/WebView2, sehingga proses gabung outlet lebih cepat, respons Excel lebih ringan, dan hasil penarikan tetap mengikuti mapping outlet yang dipilih.",
+  "version": "3.5.17",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.17/smartsCCHPPMaster.xlam",
+  "releaseNotes": "v3.5.17 / Worker 0.1.5: Optimasi upload Item Journal (deferred batch STJ: 32 RPC -> 2 RPC, hemat ~15-30 detik per run); fix UI tidak update selama upload (events worker tidak diteruskan ke WebView2); fix crash inisialisasi progress file; perbaiki dropdown database menampilkan nama DB yang benar.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.5",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.18/smartcc-hpp-worker-v0.1.5-win-x64.zip",
-  "runtimeWorkerSha256": "3FACEA32F1722875F7973FEF37079F61164E06AE6EFD9D68C3ED5FA4B43D621B"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.17/smartcc-hpp-worker-v0.1.5-win-x64.zip",
+  "runtimeWorkerSha256": "6F11BB21E3FCDDC388DC299CE9C94F1F4201B8C1C6F72FA6EB11C380C1F75FEE"
 }
