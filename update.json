@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.19",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.19/smartsCCHPPMaster.xlam",
-  "releaseNotes": "v3.5.19 / Worker 0.1.6: Optimasi upload Item Journal (deferred batch STJ: 32 RPC -> 2 RPC, hemat ~15-30 detik per run); fix UI tidak update selama upload (events worker tidak diteruskan ke WebView2); fix crash inisialisasi progress file; perbaiki dropdown database menampilkan nama DB yang benar. (Mencakup semua perubahan v3.5.17-3.5.18)",
+  "version": "3.5.20",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.20/smartsCCHPPMaster.xlam",
+  "releaseNotes": "v3.5.20: Fix instalasi worker menampilkan progress bar (sebelumnya berjalan di background tanpa UI).",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.6",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.19/smartcc-hpp-worker-v0.1.6-win-x64.zip",
-  "runtimeWorkerSha256": "F400E37D788C106F2338199312376CF991FFE6A3300A38B4FE8A1B3062A5FD4C"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.20/smartcc-hpp-worker-v0.1.6-win-x64.zip",
+  "runtimeWorkerSha256": "9BB3C4D310B8B286A382E8282678ABD2F21241EA511617699022DF78DC2F3F0D"
 }
