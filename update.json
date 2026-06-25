@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.21",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.21/smartsCCHPPMaster.xlam",
-  "releaseNotes": "fix: frmRuntimeBootstrap tidak muncul saat install worker (early-bound New frmRuntimeBootstrap, On Error Resume Next di Initialize, StatusBar+MsgBox fallback); Version Info kini tampilkan versi worker terpasang vs required dan tombol Pasang Worker bila outdated",
+  "version": "3.5.23",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.23/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.23 - Runtime readiness gate worker/WebView v0.1.7; blok fallback legacy untuk fitur worker-backed; release manifest wajib runtimeWorker* lengkap dan selaras.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.6",
+  "runtimeWorkerVersion": "0.1.7",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.21/smartcc-hpp-worker-v0.1.6-win-x64.zip",
-  "runtimeWorkerSha256": "224FEC6580E7BDDEFEC069F9F869478B8FAB3CABA0D008B4AEEEAEF1A6C89A6A"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.23/smartcc-hpp-worker-v0.1.7-win-x64.zip",
+  "runtimeWorkerSha256": "D7B3E7A163779A946B5FB9F43BE2B38DF99E82C496CCD3CBC56555BE3EE430B9"
 }
