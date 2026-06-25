@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.25",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.25/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.25 - Config Sync memakai gate dan resolver WebView2 khusus yang boleh mengambil host tersedia/newest; action worker-backed tetap strict ke worker/WebView v0.1.7.",
+  "version": "3.5.26",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.26/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.26 - Sales HolyPOS kini mendukung outlet dempet melalui worker: owner menarik sales Food dari outlet anak, outlet anak mengecualikan Food dari pemakaian sendiri, dan runtime worker/WebView2 dinaikkan ke v0.1.8 dengan validasi versi tetap ketat.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.7",
+  "runtimeWorkerVersion": "0.1.8",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.25/smartcc-hpp-worker-v0.1.7-win-x64.zip",
-  "runtimeWorkerSha256": "90E173893F45F71D43FE027FA9D5D9C13811E647FB4E5E0B7CADD42CA4763D9E"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.26/smartcc-hpp-worker-v0.1.8-win-x64.zip",
+  "runtimeWorkerSha256": "A0FC0337BA90135A8264FB7C50015E1573734B7355995C6087B98C9838D86D27"
 }
