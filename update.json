@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.23",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.23/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.23 - Runtime readiness gate worker/WebView v0.1.7; blok fallback legacy untuk fitur worker-backed; release manifest wajib runtimeWorker* lengkap dan selaras.",
+  "version": "3.5.24",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.24/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.24 - Config Sync memakai WebView2 host tersedia/newest untuk progress UI; action worker-backed tetap strict ke worker/WebView v0.1.7.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.7",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.23/smartcc-hpp-worker-v0.1.7-win-x64.zip",
-  "runtimeWorkerSha256": "D7B3E7A163779A946B5FB9F43BE2B38DF99E82C496CCD3CBC56555BE3EE430B9"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.24/smartcc-hpp-worker-v0.1.7-win-x64.zip",
+  "runtimeWorkerSha256": "DAAA9048D2153E750AD70A3B90B70D2AB1A6E3090B29AE7BE64A6BADA4E92E99"
 }
