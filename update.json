@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.26",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.26/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.26 - Sales HolyPOS kini mendukung outlet dempet melalui worker: owner menarik sales Food dari outlet anak, outlet anak mengecualikan Food dari pemakaian sendiri, dan runtime worker/WebView2 dinaikkan ke v0.1.8 dengan validasi versi tetap ketat.",
+  "version": "3.5.27",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.27/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.27 - Animasi loading roket di cockpit Upload Item Journal (muncul saat Start, progress bar slide turun, roket meluncur saat selesai). Worker runtime diperbarui ke v0.1.9.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.8",
+  "runtimeWorkerVersion": "0.1.9",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.26/smartcc-hpp-worker-v0.1.8-win-x64.zip",
-  "runtimeWorkerSha256": "A0FC0337BA90135A8264FB7C50015E1573734B7355995C6087B98C9838D86D27"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.27/smartcc-hpp-worker-v0.1.9-win-x64.zip",
+  "runtimeWorkerSha256": "1E88908F458240D9D07E685E37F4BD3ED127FDCF2E510D550F07C2958561CC0B"
 }
