@@ -3,9 +3,9 @@
   "version": "3.5.27",
   "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.27/smartsCCHPPMaster.xlam",
   "releaseNotes": "Versi 3.5.27 - Animasi loading roket di cockpit Upload Item Journal (muncul saat Start, progress bar slide turun, roket meluncur saat selesai). Worker runtime diperbarui ke v0.1.9.",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "runtimeWorkerVersion": "0.1.9",
   "runtimeWorkerPlatform": "win-x64",
   "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.27/smartcc-hpp-worker-v0.1.9-win-x64.zip",
-  "runtimeWorkerSha256": "1E88908F458240D9D07E685E37F4BD3ED127FDCF2E510D550F07C2958561CC0B"
+  "runtimeWorkerSha256": "134622AB1A77F8D038D3F36945926B15E3546E2EDC3DA035316B3F006D4A6408"
 }
