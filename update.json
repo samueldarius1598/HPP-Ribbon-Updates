@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.27",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.27/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.27 - Animasi loading roket di cockpit Upload Item Journal (muncul saat Start, progress bar slide turun, roket meluncur saat selesai). Worker runtime diperbarui ke v0.1.9.",
+  "version": "3.5.28",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.28/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.28\n- Upload Item Journal: penyebab kegagalan precheck kini jelas. Checkpoint yang gagal ditandai merah (sebelumnya semua tampak hijau walau status FAILED).\n- Section baru \"Penyebab gagal\": menampilkan alasan, checkpoint yang gagal, dan tabel produk cost = 0 (Code, Nama, Odoo ID, Baris sheet).\n- Pesan progress menyebut blocker langsung, mis. \"Upload berhenti di precheck: Harga Pokok / Cost\".\n- Kartu Company menampilkan nama company, bukan ID.\n- Diagnostics tampil minimal ~5 baris saat proses berjalan (animasi roket tidak diubah); window bisa di-scroll saat section penyebab gagal muncul.",
   "forceUpdate": true,
-  "runtimeWorkerVersion": "0.1.9",
+  "runtimeWorkerVersion": "0.1.10",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.27/smartcc-hpp-worker-v0.1.9-win-x64.zip",
-  "runtimeWorkerSha256": "134622AB1A77F8D038D3F36945926B15E3546E2EDC3DA035316B3F006D4A6408"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.28/smartcc-hpp-worker-v0.1.10-win-x64.zip",
+  "runtimeWorkerSha256": "C76A4280C742FF131CFCA3A75088611654DC7FC9CB869E48084CBA34C3D178DA"
 }
