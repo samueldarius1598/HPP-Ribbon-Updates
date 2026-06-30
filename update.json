@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.28",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.28/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.28\n- Upload Item Journal: penyebab kegagalan precheck kini jelas. Checkpoint yang gagal ditandai merah (sebelumnya semua tampak hijau walau status FAILED).\n- Section baru \"Penyebab gagal\": menampilkan alasan, checkpoint yang gagal, dan tabel produk cost = 0 (Code, Nama, Odoo ID, Baris sheet).\n- Pesan progress menyebut blocker langsung, mis. \"Upload berhenti di precheck: Harga Pokok / Cost\".\n- Kartu Company menampilkan nama company, bukan ID.\n- Diagnostics tampil minimal ~5 baris saat proses berjalan (animasi roket tidak diubah); window bisa di-scroll saat section penyebab gagal muncul.",
-  "forceUpdate": true,
+  "version": "3.5.28.1",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.28.1/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.28.1 - Peningkatan toleransi waktu akses GAS/Google Sheet menjadi 2 menit untuk mengurangi kegagalan HTTP 0 saat jaringan atau Apps Script sedang lambat.",
+  "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.10",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.28/smartcc-hpp-worker-v0.1.10-win-x64.zip",
-  "runtimeWorkerSha256": "C76A4280C742FF131CFCA3A75088611654DC7FC9CB869E48084CBA34C3D178DA"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.28.1/smartcc-hpp-worker-v0.1.10-win-x64.zip",
+  "runtimeWorkerSha256": "F5C741CA7B103985B8CA893FFBDB07C7237E1607D3CDDF1E28B3F71DB9357659"
 }
