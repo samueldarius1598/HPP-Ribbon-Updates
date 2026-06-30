@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.28.1",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.28.1/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.28.1 - Peningkatan toleransi waktu akses GAS/Google Sheet menjadi 2 menit untuk mengurangi kegagalan HTTP 0 saat jaringan atau Apps Script sedang lambat.",
+  "version": "3.5.29",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.29/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.29 - Peningkatan toleransi waktu akses GAS/Google Sheet menjadi 2 menit untuk mengurangi kegagalan HTTP 0 saat jaringan atau Apps Script sedang lambat.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.10",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.28.1/smartcc-hpp-worker-v0.1.10-win-x64.zip",
-  "runtimeWorkerSha256": "06883F0EF80E8863C760C29A1270139AD6E381FC4F542004C9E801CBEDBBBF48"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.29/smartcc-hpp-worker-v0.1.10-win-x64.zip",
+  "runtimeWorkerSha256": "A19739D27550755508539FED528625504B3CBD5647DCAD8B9EB21B78946899D8"
 }
