@@ -2,10 +2,10 @@
   "appId": "smartsCCHPPMaster",
   "version": "3.5.29",
   "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.29/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.29 - Peningkatan toleransi waktu akses GAS/Google Sheet menjadi 2 menit untuk mengurangi kegagalan HTTP 0 saat jaringan atau Apps Script sedang lambat.",
+  "releaseNotes": "Versi 3.5.29\nPerbaikan upload Item Journal via worker agar qty yang divalidasi ke Odoo dipaksa sama dengan kolom Qty Excel, termasuk pembaruan runtime worker v0.1.11.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.10",
+  "runtimeWorkerVersion": "0.1.11",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.29/smartcc-hpp-worker-v0.1.10-win-x64.zip",
-  "runtimeWorkerSha256": "A19739D27550755508539FED528625504B3CBD5647DCAD8B9EB21B78946899D8"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.29/smartcc-hpp-worker-v0.1.11-win-x64.zip",
+  "runtimeWorkerSha256": "1A0F400E105DD258CB99D74A74E8AB8E1351A5D3D27E78B2C63FA70664CCAEA9"
 }
