@@ -1,8 +1,8 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.29",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.29/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.29\nPerbaikan upload Item Journal via worker agar qty yang divalidasi ke Odoo dipaksa sama dengan kolom Qty Excel, termasuk pembaruan runtime worker v0.1.11.",
+  "version": "3.5.30",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.30/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.30\nGR All kini otomatis melewati sumber ESB untuk outlet yang tidak memiliki mapping ESB, sehingga outlet seperti Mumin Bali bisa menarik Stock Movement Odoo tanpa wajib mengisi ESB Branch ID.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.11",
   "runtimeWorkerPlatform": "win-x64",
