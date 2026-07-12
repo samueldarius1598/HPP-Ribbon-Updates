@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.30",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.30/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.30\nGR All kini otomatis melewati sumber ESB untuk outlet yang tidak memiliki mapping ESB, sehingga outlet seperti Mumin Bali bisa menarik Stock Movement Odoo tanpa wajib mengisi ESB Branch ID.",
+  "version": "3.5.31",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.31/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Fix HTTP 503 saat tarik Stock Movement dari Odoo: konkurensi request ke Odoo diturunkan (6->3) + gate global lintas fase relasi (move/picking/produk/kategori) + retry backoff/jitter, mengatasi rate-limit nginx di depan Odoo. Tambahan keandalan: blok Odoo di sheet tidak terhapus saat fetch gagal (mis. 503), dan penulisan sheet Stock Movement aman saat AutoFilter aktif.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.11",
+  "runtimeWorkerVersion": "0.1.12",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.29/smartcc-hpp-worker-v0.1.11-win-x64.zip",
-  "runtimeWorkerSha256": "1A0F400E105DD258CB99D74A74E8AB8E1351A5D3D27E78B2C63FA70664CCAEA9"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.31/smartcc-hpp-worker-v0.1.12-win-x64.zip",
+  "runtimeWorkerSha256": "D86F0118370C6AECC7803F45A85C3BA9DD9D0C54EEDB565DD85BD805B1989BC0"
 }
