@@ -3,7 +3,7 @@
   "version": "3.5.31",
   "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.31/smartsCCHPPMaster.xlam",
   "releaseNotes": "Fix HTTP 503 saat tarik Stock Movement dari Odoo: konkurensi request ke Odoo diturunkan (6->3) + gate global lintas fase relasi (move/picking/produk/kategori) + retry backoff/jitter, mengatasi rate-limit nginx di depan Odoo. Tambahan keandalan: blok Odoo di sheet tidak terhapus saat fetch gagal (mis. 503), dan penulisan sheet Stock Movement aman saat AutoFilter aktif.",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "runtimeWorkerVersion": "0.1.12",
   "runtimeWorkerPlatform": "win-x64",
   "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.31/smartcc-hpp-worker-v0.1.12-win-x64.zip",
