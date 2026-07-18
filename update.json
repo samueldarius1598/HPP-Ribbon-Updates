@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.31",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.31/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Fix HTTP 503 saat tarik Stock Movement dari Odoo: konkurensi request ke Odoo diturunkan (6->3) + gate global lintas fase relasi (move/picking/produk/kategori) + retry backoff/jitter, mengatasi rate-limit nginx di depan Odoo. Tambahan keandalan: blok Odoo di sheet tidak terhapus saat fetch gagal (mis. 503), dan penulisan sheet Stock Movement aman saat AutoFilter aktif.",
-  "forceUpdate": true,
-  "runtimeWorkerVersion": "0.1.12",
+  "version": "3.6.1",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.1/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.1 - Dashboard Full Move kini menyiapkan audit per purpose dari Stock Movement dan membandingkan data Odoo dengan Recipe, Mutation Out, serta Other Cost; Recipe SmartsCC, Recipe F&B Analyst, dan rekonsiliasi Sales ikut tersedia, sementara seluruh Sales, Item Journal, Stock Movement, Recipe, dan WebView2 UI dipastikan memakai runtime worker terbaru v0.1.13 dengan validasi ketat agar worker lama tidak dijalankan.",
+  "forceUpdate": false,
+  "runtimeWorkerVersion": "0.1.13",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.31/smartcc-hpp-worker-v0.1.12-win-x64.zip",
-  "runtimeWorkerSha256": "D86F0118370C6AECC7803F45A85C3BA9DD9D0C54EEDB565DD85BD805B1989BC0"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.1/smartcc-hpp-worker-v0.1.13-win-x64.zip",
+  "runtimeWorkerSha256": "80D31FAB3955AC87ACC3193764DC0EE55254F6962FF4781E49D1EEC3742804C5"
 }
