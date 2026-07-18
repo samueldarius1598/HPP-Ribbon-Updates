@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.1",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.1/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.1 - Dashboard Full Move kini menyiapkan audit per purpose dari Stock Movement dan membandingkan data Odoo dengan Recipe, Mutation Out, serta Other Cost; Recipe SmartsCC, Recipe F&B Analyst, dan rekonsiliasi Sales ikut tersedia, sementara seluruh Sales, Item Journal, Stock Movement, Recipe, dan WebView2 UI dipastikan memakai runtime worker terbaru v0.1.13 dengan validasi ketat agar worker lama tidak dijalankan.",
+  "version": "3.5.32",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.32/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.32 - Dashboard Full Move kini menyiapkan audit per purpose dari Stock Movement dan membandingkan data Odoo dengan Recipe, Mutation Out, serta Other Cost; Recipe SmartsCC, Recipe F&B Analyst, dan rekonsiliasi Sales ikut tersedia, sementara seluruh Sales, Item Journal, Stock Movement, Recipe, dan WebView2 UI dipastikan memakai runtime worker terbaru v0.1.13 dengan validasi ketat agar worker lama tidak dijalankan.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.13",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.1/smartcc-hpp-worker-v0.1.13-win-x64.zip",
-  "runtimeWorkerSha256": "80D31FAB3955AC87ACC3193764DC0EE55254F6962FF4781E49D1EEC3742804C5"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.32/smartcc-hpp-worker-v0.1.13-win-x64.zip",
+  "runtimeWorkerSha256": "5FD57A6D58C73076B3FE2764B7B952EA75161A1F342D9473BC288F2DCBB82D78"
 }
