@@ -2,10 +2,10 @@
   "appId": "smartsCCHPPMaster",
   "version": "3.5.35",
   "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.35/smartsCCHPPMaster.xlam",
-  "releaseNotes": "v3.5.35: Recipe F&B Analyst kini menyertakan konfigurasi Recipe Explorer di XLAM agar dapat dipakai langsung setelah Check for Updates.",
+  "releaseNotes": "v3.5.35",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.14",
   "runtimeWorkerPlatform": "win-x64",
   "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.35/smartcc-hpp-worker-v0.1.14-win-x64.zip",
-  "runtimeWorkerSha256": "98BF49D2C39F29889F98ED1D66A4860E4532D390F3F38BC626E4C93FAF0F46DA"
+  "runtimeWorkerSha256": "40BFB442BAE9AFEDF731F5244AAC3C64AC130F9BBD7697DC68D871FD6E636F82"
 }
