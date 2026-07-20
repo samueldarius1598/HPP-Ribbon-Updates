@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.36",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.36/smartsCCHPPMaster.xlam",
-  "releaseNotes": "v3.5.36",
+  "version": "3.5.37",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.37/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.37 - Recipe SmartsCC kini menghasilkan Boolean asli dan menempel puluhan ribu baris jauh lebih cepat tanpa membuat Excel restart; Dashboard Full Move juga menggunakan worker/WebView2 agar pengambilan data lebih efisien, progres lebih jelas, dan formula Dashboard tetap dipertahankan.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.14",
+  "runtimeWorkerVersion": "0.1.15",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.35/smartcc-hpp-worker-v0.1.14-win-x64.zip",
-  "runtimeWorkerSha256": "40BFB442BAE9AFEDF731F5244AAC3C64AC130F9BBD7697DC68D871FD6E636F82"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.37/smartcc-hpp-worker-v0.1.15-win-x64.zip",
+  "runtimeWorkerSha256": "EC6999696D5C0585382512862ADE6A3927F777167A6C5513C9412A3C24AAF97B"
 }
