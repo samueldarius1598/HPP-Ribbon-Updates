@@ -2,7 +2,7 @@
   "appId": "smartsCCHPPMaster",
   "version": "3.5.38",
   "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.38/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.38 - Dashboard Full Move lebih stabil saat menulis formula dan kembali ke kalkulasi otomatis sebelum selesai; Recipe F&B Analyst menjaga format sheet saat proses gagal dan runtime worker tersedia melalui Check for Updates.",
+  "releaseNotes": "Versi 3.5.38 - Dashboard Full Move kini lebih stabil dan hemat memori saat menulis formula, kembali ke kalkulasi otomatis sebelum selesai, serta Recipe F&B Analyst menjaga format sheet dan memasang runtime worker melalui Check for Updates.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.15",
   "runtimeWorkerPlatform": "win-x64",
