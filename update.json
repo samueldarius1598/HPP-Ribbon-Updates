@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.41",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.41/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.41\nDiagnostik Full Move dan aktivitas tombol Excel kini tercatat otomatis ke dashboard admin, lengkap dengan tahap proses serta informasi user, mesin, Excel, Windows, NAS, dan versi add-in; antrian dikirim ringan saat workbook dibuka, setiap 12 menit, dan ketika ditutup.",
+  "version": "3.5.42",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.42/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.42 - Dashboard Full Move tidak lagi gagal Out of Memory saat banyak Purpose SIJ; mapping Stock Purpose kini tersedia langsung di add-in, dan log error dikirim lebih cepat ke dashboard admin dengan status akhir yang benar.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.17",
+  "runtimeWorkerVersion": "0.1.18",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.41/smartcc-hpp-worker-v0.1.17-win-x64.zip",
-  "runtimeWorkerSha256": "E4A18038054A1B90AC953497BF11C624D3DD26321CD147EDAB0A9F16C31D9807"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.42/smartcc-hpp-worker-v0.1.18-win-x64.zip",
+  "runtimeWorkerSha256": "4424BAC189AB6C24E624A4C44ACDA0D4FDEA4F11BB3906326B1D524D9F6C1A49"
 }
