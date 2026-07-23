@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.39",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.39/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.39 - Dashboard Full Move kini lebih stabil saat menulis formula dan mempertahankan Note; bila Stock Movement belum memuat Purpose SIJ, petunjuk perbaikan tampil jelas. Recipe F&B Analyst juga membersihkan sisa format dan objek lama saat dibuat ulang, dengan runtime worker diperbarui ke v0.1.16.",
+  "version": "3.5.40",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.40/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.5.40 - Dashboard Full Move kini memisahkan return dan adjustment sesuai tujuan transaksi agar audit lebih jelas, serta menambahkan diagnostik perangkat otomatis untuk mempercepat penelusuran error formula di masing-masing komputer user.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.16",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.39/smartcc-hpp-worker-v0.1.16-win-x64.zip",
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.40/smartcc-hpp-worker-v0.1.16-win-x64.zip",
   "runtimeWorkerSha256": "AD625695612A8DD2102ADD165235AC6CED9D936F491F27BAC8DCA67D64488753"
 }
