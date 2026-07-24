@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.5.43",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.43/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.5.43 - Monitor Template HPP kini menampilkan workbook aktif secara live beserta operator, aktivitas, status, dan kondisi koneksinya; telemetry hanya dikirim untuk workbook HPP dan dibuat lebih tahan gangguan, sementara Dashboard Full Move mendapat perbaikan formula serta pelaporan error yang lebih andal, dengan runtime worker v0.1.18.",
-  "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.18",
+  "version": "3.6.1",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.1/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.1 - Monitor Template HPP kini menampilkan aktivitas workbook secara live dan stabil tanpa flicker, mengelompokkan kartu per status dan mesin, serta mempertahankan tab dan posisi baca saat data diperbarui. Audit bisnis kini mencatat perubahan sheet termasuk Note operator dan format Rupiah, serta breakdown Unggah Odoo langsung dari sumber: Purpose Increase/Decrease Berita Acara, Location dan Akun COGS Standard Usage, serta Company–Contact Mutation Out. Pembaruan ini wajib dan memakai runtime worker v0.1.19.",
+  "forceUpdate": true,
+  "runtimeWorkerVersion": "0.1.19",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.5.43/smartcc-hpp-worker-v0.1.18-win-x64.zip",
-  "runtimeWorkerSha256": "C5B7661C6D7536E6424270BC6E0AF8A1951C53334023AF03C717B0E754CFE0B5"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.1/smartcc-hpp-worker-v0.1.19-win-x64.zip",
+  "runtimeWorkerSha256": "573C8FD45A7278789D3FDD2FE11DE0064CFDD5F4B368DEDC53FF47D8E011BB5A"
 }
