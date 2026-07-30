@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.2",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.2/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.2 - Upload Berita Acara kini mencegah pengiriman ulang approval saat respons Odoo terlambat, memverifikasi SIJ, move, dan jurnal sebelum menulis hasil ke Excel, serta menstandarkan seluruh koneksi worker dan WebView2 ke identitas SmartsCC tanpa User-Agent browser; runtime worker diperbarui ke v0.1.20.",
+  "version": "3.6.3",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.3/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.3 - Recipe F&B Analyst kini menyaring dan menggabungkan recipe sesuai kategori Sales serta mendukung outlet dempet dengan benar; upload Berita Acara lebih aman saat respons Odoo terlambat, identitas koneksi worker distandarkan, dan runtime worker diperbarui ke v0.1.21.",
   "forceUpdate": true,
-  "runtimeWorkerVersion": "0.1.20",
+  "runtimeWorkerVersion": "0.1.21",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.2/smartcc-hpp-worker-v0.1.20-win-x64.zip",
-  "runtimeWorkerSha256": "45B23B529C89E3622BB069595821883C82A5ED4C3D614799004A685EF2E3DC44"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.3/smartcc-hpp-worker-v0.1.21-win-x64.zip",
+  "runtimeWorkerSha256": "2AA0FC5F92F87AF91732AA290BD5AC2735FEA8EEFE5A6816D8F0FBB8ED001D7A"
 }
