@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.5",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.5/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.5\n- Worker lokal memakai snapshot Smarts CC untuk Recipe dan Summary mapping, sehingga tidak bergantung pada pembacaan GAS langsung.\n- Perbaikan runtime WebView2 untuk Sales HolyPOS, Item Journal, Stock Movement, dan Dashboard Full Move.",
+  "version": "3.6.6",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.6/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.6 - Recipe SmartsCC kini menjaga angka, tanggal, ID, dan HPP sesuai tipe serta lebih tahan saat menyiapkan sheet; Prepare Usage memakai urutan GAS fresh, cache GAS, lalu snapshot DB lokal dengan pemetaan lokasi yang lebih stabil; runtime worker dan WebView2 untuk Sales HolyPOS, Item Journal, Stock Movement, dan Dashboard Full Move juga diperbarui.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.23",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.5/smartcc-hpp-worker-v0.1.23-win-x64.zip",
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.6/smartcc-hpp-worker-v0.1.23-win-x64.zip",
   "runtimeWorkerSha256": "FE1A2E6B5BF1B0D668C96C7762B069126BEAC3A1BBDD64EAB06828186E65BC57"
 }
