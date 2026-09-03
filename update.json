@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.7",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.7/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.7\nPerbaikan: label Worker di jendela Sales HolyPOS Run tidak lagi macet di \"pending\" saat jendela dibuka instan lewat warm-spare. Host WebView2 kini membaca versi worker dari request VBA sebagai fallback bila --worker tidak dikirim.",
+  "version": "3.6.8",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.8/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.8\nPerbaikan: tombol Sales Per Bill HolyPOS gagal karena mapping nama summary (kategori menu) diambil lewat Smarts CC yang sempat menolak autentikasi. Sekarang diambil langsung dari HolyPOS.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.23",
+  "runtimeWorkerVersion": "0.1.24",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.7/smartcc-hpp-worker-v0.1.23-win-x64.zip",
-  "runtimeWorkerSha256": "43442BFD90B88B2EC8D8343F7A29691437E99610B0B3F74DD085BA62CFF22505"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.8/smartcc-hpp-worker-v0.1.24-win-x64.zip",
+  "runtimeWorkerSha256": "3E9209844B970D2E0B867B57E9AFFB62599AB57B37D0BC8B0ABB2ECA36954DFC"
 }
