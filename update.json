@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.8",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.8/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.8\nPerbaikan: tombol Sales Per Bill HolyPOS gagal karena mapping nama summary (kategori menu) diambil lewat Smarts CC yang sempat menolak autentikasi. Sekarang diambil langsung dari HolyPOS.",
+  "version": "3.6.9",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.9/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.9\nPerbaikan lanjutan: pesan error saat mapping summary HolyPOS gagal sekarang menyertakan detail HTTP/penyebab, agar kegagalan berikutnya bisa langsung terlihat penyebabnya dari log.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.24",
+  "runtimeWorkerVersion": "0.1.25",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.8/smartcc-hpp-worker-v0.1.24-win-x64.zip",
-  "runtimeWorkerSha256": "3E9209844B970D2E0B867B57E9AFFB62599AB57B37D0BC8B0ABB2ECA36954DFC"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.9/smartcc-hpp-worker-v0.1.25-win-x64.zip",
+  "runtimeWorkerSha256": "88E653700B52D895A79ECD3DDF21CA2932A2FB58E680F899611FCDF6D124756A"
 }
