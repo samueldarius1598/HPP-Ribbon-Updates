@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.9",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.9/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.9\nPerbaikan lanjutan: pesan error saat mapping summary HolyPOS gagal sekarang menyertakan detail HTTP/penyebab, agar kegagalan berikutnya bisa langsung terlihat penyebabnya dari log.",
+  "version": "3.6.10",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.10/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.10\nTambah dukungan HolyPOS DB hwstore (HW Apparel) di konfigurasi Sales (sebelumnya hanya menerima holywings/apac1/atlas).\nUpdate worker Stock Movement/ESB.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.25",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.9/smartcc-hpp-worker-v0.1.25-win-x64.zip",
-  "runtimeWorkerSha256": "88E653700B52D895A79ECD3DDF21CA2932A2FB58E680F899611FCDF6D124756A"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.10/smartcc-hpp-worker-v0.1.25-win-x64.zip",
+  "runtimeWorkerSha256": "01E90C611A2F3E01D386E1A6AEBF1976BEF81243CB1613E32885B2C7265AD73C"
 }
