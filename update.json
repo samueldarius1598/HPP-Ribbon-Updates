@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.10",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.10/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.10\nTambah dukungan HolyPOS DB hwstore (HW Apparel) di konfigurasi Sales (sebelumnya hanya menerima holywings/apac1/atlas).\nUpdate worker Stock Movement/ESB.",
+  "version": "3.6.11",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.11/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.11\nFix: HW Apparel recipe (Recipe F&B Analyst) salah baca kolom sheet Apparel, hampir semua SKU gagal match -- sekarang benar.\nFix: update list outlet HolyPOS lewat worker cuma cek 3 host, hwstore (HW Apparel/HW Store) tidak pernah ditarik.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.25",
+  "runtimeWorkerVersion": "0.1.26",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.10/smartcc-hpp-worker-v0.1.25-win-x64.zip",
-  "runtimeWorkerSha256": "01E90C611A2F3E01D386E1A6AEBF1976BEF81243CB1613E32885B2C7265AD73C"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.11/smartcc-hpp-worker-v0.1.26-win-x64.zip",
+  "runtimeWorkerSha256": "D98A5F3848F593D1C8AF44CE5366476DC18A3223E64180E3BE48E42C41BA8672"
 }
