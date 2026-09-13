@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.11",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.11/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.11\nFix: HW Apparel recipe (Recipe F&B Analyst) salah baca kolom sheet Apparel, hampir semua SKU gagal match -- sekarang benar.\nFix: update list outlet HolyPOS lewat worker cuma cek 3 host, hwstore (HW Apparel/HW Store) tidak pernah ditarik.",
+  "version": "3.6.12",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.12/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.12\nRecipe SmartsCC: batas waktu tarik data dinaikkan dari 320 detik menjadi 900 detik, supaya outlet besar dan periode panjang tidak lagi dihentikan di tengah jalan padahal server masih mengirim data.\nRecipe SmartsCC: pesan gagal diperjelas. Kalau setelah 900 detik masih timeout, dialog menyebutkan langkah yang harus dicoba, larangan mengulang terus-terusan, dan data yang perlu dikirim ke admin (kode RS-TIMEOUT-HOST / RS-TIMEOUT-SERVER, Company ID, periode, waktu).",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.26",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.11/smartcc-hpp-worker-v0.1.26-win-x64.zip",
-  "runtimeWorkerSha256": "D98A5F3848F593D1C8AF44CE5366476DC18A3223E64180E3BE48E42C41BA8672"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.12/smartcc-hpp-worker-v0.1.26-win-x64.zip",
+  "runtimeWorkerSha256": "D15C9B3FE5D094090722F3C9E12311BE965898FDA3F045F5B49F69DE533FD7A9"
 }
