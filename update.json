@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.12",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.12/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.12\nRecipe SmartsCC: batas waktu tarik data dinaikkan dari 320 detik menjadi 900 detik, supaya outlet besar dan periode panjang tidak lagi dihentikan di tengah jalan padahal server masih mengirim data.\nRecipe SmartsCC: pesan gagal diperjelas. Kalau setelah 900 detik masih timeout, dialog menyebutkan langkah yang harus dicoba, larangan mengulang terus-terusan, dan data yang perlu dikirim ke admin (kode RS-TIMEOUT-HOST / RS-TIMEOUT-SERVER, Company ID, periode, waktu).",
+  "version": "3.6.13",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.13/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.13\nRiwayat edit Dashboard Full Move: kolom Balance Sys, Diff Balance, Cost Variance, dan Note dicari lewat judul kolom, sehingga data yang dikirim ke monitor selalu dari kolom yang benar walau jumlah kolom berbeda per outlet.\nKolom Note tidak lagi ditulisi otomatis oleh add-in. Riwayat edit hanya dikirim ke server, jadi catatan operator dan kolom lain (misalnya Standard Price Sys) tidak tertimpa.\nPerubahan yang dilakukan add-in saat workbook dibuka (sinkronisasi konfigurasi dan data perangkat) tidak lagi tercatat sebagai edit manual.\nSinkronisasi konfigurasi dan cek recipe otomatis kini tercatat di monitor sebagai proses dengan status dan durasi.\nSheet dan jumlah baris keluaran hanya dicatat untuk proses yang berhasil; proses batal atau gagal tidak lagi mengklaim keluaran.",
   "forceUpdate": false,
   "runtimeWorkerVersion": "0.1.26",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.12/smartcc-hpp-worker-v0.1.26-win-x64.zip",
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.13/smartcc-hpp-worker-v0.1.26-win-x64.zip",
   "runtimeWorkerSha256": "D15C9B3FE5D094090722F3C9E12311BE965898FDA3F045F5B49F69DE533FD7A9"
 }
