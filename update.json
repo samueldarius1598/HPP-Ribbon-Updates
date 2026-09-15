@@ -1,11 +1,11 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.14",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.14/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.14\nDashboard dan Dashboard Full Move: kategori Alcohol, Alcohol A, Alcohol B, dan Alcohol C diurutkan paling atas sebagai satu grup Alcohol berwarna merah dengan satu baris TOTAL ALCOHOL.\nDashboard dan Dashboard Full Move: kategori item ESB (PWDS) yang sudah tersimpan di workbook langsung dipakai; kode yang belum ada atau kategorinya kosong dicari ke ESB lalu disimpan kembali.\nDashboard Full Move: kelompok kolom yang tidak berisi data pada periode ini tidak ditampilkan; namanya dicatat di baris 2.\nDashboard Full Move: item yang pergerakan Stock Movement-nya belum masuk kolom mana pun disebut di baris 2 dan di pesan akhir.\nDashboard Full Move: kode Stock Opname dengan qty tidak nol ikut masuk daftar item.\nDashboard Full Move: item PWDS kini tampil dengan Category dan Sub Category dari ESB.\nPerbaikan: Dashboard Full Move tetap benar saat sheet sumber atau sheet Dashboard sedang difilter.",
+  "version": "3.6.15",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.15/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.15\nSinkronisasi Konfigurasi: animasi loading diganti Bunny Moon Walk and Wave. Bunny berjalan selama proses berlangsung, kemudian melambai dengan pesan \"Workbook siap, let's go...\" dan berjalan keluar sebelum jendela tertutup otomatis.\nSetelah sinkronisasi selesai, animasi penutup diputar lebih cepat agar jendela segera tertutup.\nBila sinkronisasi gagal, Bunny berhenti di posisi awal dan pesan kesalahan tetap tampil.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.27",
+  "runtimeWorkerVersion": "0.1.28",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.14/smartcc-hpp-worker-v0.1.27-win-x64.zip",
-  "runtimeWorkerSha256": "6531DCF781B37BFA578A560D3D4089284AEB2F04F22F8CA381A92CC249E3E40F"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.15/smartcc-hpp-worker-v0.1.28-win-x64.zip",
+  "runtimeWorkerSha256": "B24B6E4F257C45FD54652A2E9C46276FB352D1582F84A42EE6959E56879E0B3F"
 }
