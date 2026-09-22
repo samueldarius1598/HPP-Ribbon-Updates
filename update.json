@@ -1,11 +1,230 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.15",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.15/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.15\nSinkronisasi Konfigurasi: animasi loading diganti Bunny Moon Walk and Wave. Bunny berjalan selama proses berlangsung, kemudian melambai dengan pesan \"Workbook siap, let's go...\" dan berjalan keluar sebelum jendela tertutup otomatis.\nSetelah sinkronisasi selesai, animasi penutup diputar lebih cepat agar jendela segera tertutup.\nBila sinkronisasi gagal, Bunny berhenti di posisi awal dan pesan kesalahan tetap tampil.",
+  "version": "3.6.16",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.16/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.16\nStock Movement dilengkapi biaya SVL dan PO, retur lintas periode, jurnal/akun ESB lintas cabang, serta menu dan porsi berdasarkan bukti posting Smarts CC. Dashboard Full Move mencakup movement Odoo dan ESB tanpa hitung ganda; Usage Sys Smarts memakai qty aktual ESB, dengan qty_to_esb di sebelah qty_to_odoo pada Recipe. Penulisan sheet, format tabel, tampilan progres, dan kestabilan jendela diperbaiki. Updater baru memakai ulang komponen yang sama serta mengelola retensi versi dan cache. Setelah pembaruan, tarik ulang Recipe SmartsCC lalu Prepare Dashboard Full Move; workbook dengan Stock Movement lama perlu menarik ulang movement. Optimasi lanjutan persiapan akses ESB dan helper Recipe manual belum termasuk versi ini.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.28",
+  "runtimeWorkerVersion": "0.1.29",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.15/smartcc-hpp-worker-v0.1.28-win-x64.zip",
-  "runtimeWorkerSha256": "B24B6E4F257C45FD54652A2E9C46276FB352D1582F84A42EE6959E56879E0B3F"
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.16/smartcc-hpp-worker-v0.1.29-win-x64.zip",
+  "runtimeWorkerSha256": "782327F89E49DE3B6946B5D28A2766CA1C7316595F51480FACF80325A37C2C09",
+  "componentSchemaVersion": 1,
+  "minUpdaterProtocol": 1,
+  "components": [
+    {
+      "id": "addin",
+      "version": "8c46f257d2057895",
+      "sha256": "8c46f257d2057895c25136bf8ea25268adbf6291f1c6606d46c578cf603aaea0",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.16/addin-8c46f257d2057895c25136bf8ea25268adbf6291f1c6606d46c578cf603aaea0.zip",
+      "downloadBytes": 4323217,
+      "installedBytes": 4333088,
+      "files": [
+        {
+          "path": "smartsCCHPPMaster.xlam",
+          "bytes": 4333088,
+          "sha256": "f128fa81a6944419406e589c79a99b2415e0eb6092b61f636e8d91b90f79fd00"
+        }
+      ]
+    },
+    {
+      "id": "engine",
+      "version": "6fda5a4194da1330",
+      "sha256": "6fda5a4194da133093fc592e579b38a18eff961757186117d1d1aa29c90f4a21",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.16/engine-6fda5a4194da133093fc592e579b38a18eff961757186117d1d1aa29c90f4a21.zip",
+      "downloadBytes": 34148314,
+      "installedBytes": 82877290,
+      "files": [
+        {
+          "path": "smartcc-hpp-worker.exe",
+          "bytes": 82877290,
+          "sha256": "42a81ff1210b4c802544077fe720d16f991156d833fea78ed0e08371b917e2ff"
+        }
+      ]
+    },
+    {
+      "id": "ui-host",
+      "version": "158c0291767e8968",
+      "sha256": "158c0291767e896896878084dc255681a6fade6bac0a13ea7d78a5f1f4cbb97d",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.16/ui-host-158c0291767e896896878084dc255681a6fade6bac0a13ea7d78a5f1f4cbb97d.zip",
+      "downloadBytes": 71658109,
+      "installedBytes": 82651887,
+      "files": [
+        {
+          "path": "Assets/holypos.ico",
+          "bytes": 22743,
+          "sha256": "9410b482c82bc37a5dbc2c08578f75fbdff3f3e566a76f846532b6d3242b5731"
+        },
+        {
+          "path": "Assets/holypos.png",
+          "bytes": 10339,
+          "sha256": "58435bfbb9500d62c4ea82b6abd5555d50d93a4899d847e1955957ee002866b2"
+        },
+        {
+          "path": "Assets/smartcc-hpp.ico",
+          "bytes": 88174,
+          "sha256": "40b5be288a8c018b225d426e37cb4ba48072e96c77669646415b82a9b33db415"
+        },
+        {
+          "path": "Assets/smartcc-hpp.png",
+          "bytes": 55280,
+          "sha256": "661df4cb64d54782ec2ea89a36ab2692f5266342937b06726a696555d61c9f65"
+        },
+        {
+          "path": "Assets/stockmovement.ico",
+          "bytes": 137812,
+          "sha256": "4878567eff924e04868fa0d07ff2a48e09f8d0975daf664225ea691deca2c9f4"
+        },
+        {
+          "path": "Assets/stockmovement.png",
+          "bytes": 466056,
+          "sha256": "c1f8b2000ab2386ecc235fb12e3919da08d92b16226eca8d449b2d1eed455b17"
+        },
+        {
+          "path": "D3DCompiler_47_cor3.dll",
+          "bytes": 4741488,
+          "sha256": "a05f99734f7c4822fefc12b367af21fd0976ed6608752fb1e1e80b6ece7ecbbb"
+        },
+        {
+          "path": "Microsoft.Web.WebView2.Core.xml",
+          "bytes": 581109,
+          "sha256": "ea7eca798d272116776e51fda84fc841259e74fefdf3326db1c213cffbe757d1"
+        },
+        {
+          "path": "Microsoft.Web.WebView2.WinForms.xml",
+          "bytes": 41870,
+          "sha256": "96e468637ee3322db9851e38c0a3d7c32f0d11f60566b47ace2c91ec66179ac8"
+        },
+        {
+          "path": "Microsoft.Web.WebView2.Wpf.xml",
+          "bytes": 143232,
+          "sha256": "3c68c150d60d39fbbe8b0801ffe773d353b211988eca095671bb3fc8192643c3"
+        },
+        {
+          "path": "PenImc_cor3.dll",
+          "bytes": 158032,
+          "sha256": "b3f162467eff13386079491068bf0b7f9edc61880ea9e14791fd5b426b8508dd"
+        },
+        {
+          "path": "PresentationNative_cor3.dll",
+          "bytes": 1235720,
+          "sha256": "ef0a7f5c104cb073cd6124f218216d3e1e58345012c95030f7d34ad4cca7c01d"
+        },
+        {
+          "path": "WebView2Loader.dll",
+          "bytes": 159112,
+          "sha256": "bb5fda5f2d3aae5e0977ab28d8a8a00acfd63d73748aaac32daf4fc6645b6677"
+        },
+        {
+          "path": "runtimes/win-x64/native/WebView2Loader.dll",
+          "bytes": 159112,
+          "sha256": "bb5fda5f2d3aae5e0977ab28d8a8a00acfd63d73748aaac32daf4fc6645b6677"
+        },
+        {
+          "path": "smartcc-hpp-worker-ui.exe",
+          "bytes": 72572090,
+          "sha256": "d222be6b429926673f604c01ae1e129248dbcc9639ddc69194822d62a3dcca53"
+        },
+        {
+          "path": "updater-capabilities.json",
+          "bytes": 22,
+          "sha256": "7bd2c4c09f529daee13036748a43a8947bc07229a81a7225910b39d0b44873d8"
+        },
+        {
+          "path": "vcruntime140_cor3.dll",
+          "bytes": 124544,
+          "sha256": "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066"
+        },
+        {
+          "path": "wpfgfx_cor3.dll",
+          "bytes": 1955152,
+          "sha256": "3f0b680f3716d90ea7ae0e077778c64fd5bc45a962697b6fc573fe035e7868f6"
+        }
+      ]
+    },
+    {
+      "id": "web-assets",
+      "version": "6c7e20df377de826",
+      "sha256": "6c7e20df377de82615580a95e73c389cde022c360b0182a9277766140725a6f2",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.16/web-assets-6c7e20df377de82615580a95e73c389cde022c360b0182a9277766140725a6f2.zip",
+      "downloadBytes": 223305,
+      "installedBytes": 412069,
+      "files": [
+        {
+          "path": "assets/app.css",
+          "bytes": 20443,
+          "sha256": "e827b89dcfa01f2821f046a33440268b24a525d1db7b75f5094648c41f273af5"
+        },
+        {
+          "path": "assets/app.js",
+          "bytes": 237618,
+          "sha256": "7ab16ab704d18642e8d1c8f3707a6f72e31ae37eb7226f0da5954283197a3daf"
+        },
+        {
+          "path": "assets/holypos-HEHMNC3Z.png",
+          "bytes": 10339,
+          "sha256": "58435bfbb9500d62c4ea82b6abd5555d50d93a4899d847e1955957ee002866b2"
+        },
+        {
+          "path": "assets/smartcc-hpp-M7UQXUXU.png",
+          "bytes": 55280,
+          "sha256": "661df4cb64d54782ec2ea89a36ab2692f5266342937b06726a696555d61c9f65"
+        },
+        {
+          "path": "assets/stockmovement-FW52ZL27.png",
+          "bytes": 8444,
+          "sha256": "806c8d0c5cb40fddcdd2d7da68bc51949d8b54e9b8459093900078a0266c006c"
+        },
+        {
+          "path": "config-sync.html",
+          "bytes": 23087,
+          "sha256": "67c6b2be3535b16913142e1d671b4fd3c53f43c4474264817f89136108c41be2"
+        },
+        {
+          "path": "index.html",
+          "bytes": 1578,
+          "sha256": "3a79a551e9447e6a08011c3b15031b0b0c4b876df474b95a34c38634f91a10cd"
+        },
+        {
+          "path": "smartcc-hpp.png",
+          "bytes": 55280,
+          "sha256": "661df4cb64d54782ec2ea89a36ab2692f5266342937b06726a696555d61c9f65"
+        }
+      ]
+    },
+    {
+      "id": "media-assets",
+      "version": "5f86d8cd38ceb0ac",
+      "sha256": "5f86d8cd38ceb0acf797d621ad1ef43fe8a03df0382258b9a5053507fa65d8e9",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.16/media-assets-5f86d8cd38ceb0acf797d621ad1ef43fe8a03df0382258b9a5053507fa65d8e9.zip",
+      "downloadBytes": 20199361,
+      "installedBytes": 79594164,
+      "files": [
+        {
+          "path": "bunny-controller.js",
+          "bytes": 2800,
+          "sha256": "cd28b175fbe61bbdbaca4adb9a953ef72af156dba241932e8e38a8dd7dd646d4"
+        },
+        {
+          "path": "lottie.min.js",
+          "bytes": 305544,
+          "sha256": "840546ff40dcf27f49ed866686de11916eba988a294f73ad129ee583bda4b69a"
+        },
+        {
+          "path": "take-jose.js",
+          "bytes": 56848693,
+          "sha256": "34c68bff4b4c947aac933ec043f929282716fbb398dc6e1402ab16ed90d52e0a"
+        },
+        {
+          "path": "walk-wave-continue.js",
+          "bytes": 22435040,
+          "sha256": "3eec31d3e4696b805943af383c3692bd52821490a980d3c67444def1a0e63cfc"
+        },
+        {
+          "path": "wave-controller.js",
+          "bytes": 2087,
+          "sha256": "bcff6d2cc23cf0c05df4cda297c8809673cd45a8dee5c0320071707dfd84d371"
+        }
+      ]
+    }
+  ]
 }
