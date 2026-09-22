@@ -1,43 +1,43 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.17",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.17/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.17 memperbaiki pemasangan awal, pemulihan file ribbon yang hilang, dan tombol Coba Lagi; komponen yang sudah sesuai tetap digunakan tanpa diunduh ulang.",
+  "version": "3.6.18",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.18/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.18 menampilkan status pemrosesan SmartsCC per penjualan, Nett per baris, pemeriksaan dua sumber resep, serta cost terposting dan estimasi Manual Hold berwarna merah muda; sisa format dibersihkan saat data menyusut, blok Sales Standard 1 Bulan dinonaktifkan, dan petunjuk pembaruan diperjelas.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.29",
+  "runtimeWorkerVersion": "0.1.30",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.17/smartcc-hpp-worker-v0.1.29-win-x64.zip",
-  "runtimeWorkerSha256": "782327F89E49DE3B6946B5D28A2766CA1C7316595F51480FACF80325A37C2C09",
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.18/smartcc-hpp-worker-v0.1.30-win-x64.zip",
+  "runtimeWorkerSha256": "0869328FFA3A1D19795DCE4556A92A772DC867BD54F71B8BE1EBE51CA59A7055",
   "componentSchemaVersion": 1,
   "minUpdaterProtocol": 1,
   "components": [
     {
       "id": "addin",
-      "version": "337cb0cfab690ad2",
-      "sha256": "337cb0cfab690ad2f5def2cdef5a80eaed82fccc226a5a2552691d7af58997b9",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.17/addin-337cb0cfab690ad2f5def2cdef5a80eaed82fccc226a5a2552691d7af58997b9.zip",
-      "downloadBytes": 4324525,
-      "installedBytes": 4334360,
+      "version": "fb87f296f04b9af3",
+      "sha256": "fb87f296f04b9af3f6878a070b240d90d6443ec1ff6c38e7cbf50e169c99dba1",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.18/addin-fb87f296f04b9af3f6878a070b240d90d6443ec1ff6c38e7cbf50e169c99dba1.zip",
+      "downloadBytes": 4328883,
+      "installedBytes": 4338274,
       "files": [
         {
           "path": "smartsCCHPPMaster.xlam",
-          "bytes": 4334360,
-          "sha256": "4a05bc9300d2dd446ccf518931fa7f889e000652834d6b8b305bc1a43697be4e"
+          "bytes": 4338274,
+          "sha256": "e9ee1982f0d706b3b28543aaa6eb4ff38fe434f27b57af58fddb4016e4ed63b4"
         }
       ]
     },
     {
       "id": "engine",
-      "version": "6fda5a4194da1330",
-      "sha256": "6fda5a4194da133093fc592e579b38a18eff961757186117d1d1aa29c90f4a21",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.17/engine-6fda5a4194da133093fc592e579b38a18eff961757186117d1d1aa29c90f4a21.zip",
-      "downloadBytes": 34148314,
-      "installedBytes": 82877290,
+      "version": "dec6122f49568f79",
+      "sha256": "dec6122f49568f795d4ced88fcc1858955c15f3a8cace1711eadd198956d28a1",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.18/engine-dec6122f49568f795d4ced88fcc1858955c15f3a8cace1711eadd198956d28a1.zip",
+      "downloadBytes": 33980246,
+      "installedBytes": 39410220,
       "files": [
         {
           "path": "smartcc-hpp-worker.exe",
-          "bytes": 82877290,
-          "sha256": "42a81ff1210b4c802544077fe720d16f991156d833fea78ed0e08371b917e2ff"
+          "bytes": 39410220,
+          "sha256": "99c03980386edf744e5fc1e35736f44b049007d3cade2063b5b24fa7053cb29d"
         }
       ]
     },
@@ -45,7 +45,7 @@
       "id": "ui-host",
       "version": "158c0291767e8968",
       "sha256": "158c0291767e896896878084dc255681a6fade6bac0a13ea7d78a5f1f4cbb97d",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.17/ui-host-158c0291767e896896878084dc255681a6fade6bac0a13ea7d78a5f1f4cbb97d.zip",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.18/ui-host-158c0291767e896896878084dc255681a6fade6bac0a13ea7d78a5f1f4cbb97d.zip",
       "downloadBytes": 71658109,
       "installedBytes": 82651887,
       "files": [
@@ -143,11 +143,11 @@
     },
     {
       "id": "web-assets",
-      "version": "6c7e20df377de826",
-      "sha256": "6c7e20df377de82615580a95e73c389cde022c360b0182a9277766140725a6f2",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.17/web-assets-6c7e20df377de82615580a95e73c389cde022c360b0182a9277766140725a6f2.zip",
-      "downloadBytes": 223305,
-      "installedBytes": 412069,
+      "version": "706f6d4f02ad9f94",
+      "sha256": "706f6d4f02ad9f94d3e755ea4582f8a3a1020091fc6be03b38e66b566d819f85",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.18/web-assets-706f6d4f02ad9f94d3e755ea4582f8a3a1020091fc6be03b38e66b566d819f85.zip",
+      "downloadBytes": 223288,
+      "installedBytes": 411988,
       "files": [
         {
           "path": "assets/app.css",
@@ -156,8 +156,8 @@
         },
         {
           "path": "assets/app.js",
-          "bytes": 237618,
-          "sha256": "7ab16ab704d18642e8d1c8f3707a6f72e31ae37eb7226f0da5954283197a3daf"
+          "bytes": 237537,
+          "sha256": "54b81c4a25febf730e10ce4c5d3736a0110028df5ef5c8f104db838965362b57"
         },
         {
           "path": "assets/holypos-HEHMNC3Z.png",
@@ -195,7 +195,7 @@
       "id": "media-assets",
       "version": "5f86d8cd38ceb0ac",
       "sha256": "5f86d8cd38ceb0acf797d621ad1ef43fe8a03df0382258b9a5053507fa65d8e9",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.17/media-assets-5f86d8cd38ceb0acf797d621ad1ef43fe8a03df0382258b9a5053507fa65d8e9.zip",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.18/media-assets-5f86d8cd38ceb0acf797d621ad1ef43fe8a03df0382258b9a5053507fa65d8e9.zip",
       "downloadBytes": 20199361,
       "installedBytes": 79594164,
       "files": [
