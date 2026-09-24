@@ -226,5 +226,17 @@
         }
       ]
     }
-  ]
+  ],
+  "channel": "production",
+  "nativeManifestProtocol": 2,
+  "addinBuildId": "native-preview-10",
+  "updater": {
+    "version": "0.1.12",
+    "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.19/SmartCC-Updater-v0.1.12.msi",
+    "bytes": 53297152,
+    "sha256": "432534f25dd0530235fb744d8f4e9691ee21b1bc9dbc81b67fdb4669a8dfc753",
+    "exeSha256": "1bc69b53dcb2d19bcdbd4cfcd1febcc86c2bf82da9409f4ab5bf331392ee9021"
+  },
+  "issuedAt": "2026-09-24T12:43:07.328880+00:00",
+  "expiresAt": "2027-09-24T12:43:07.328880+00:00"
 }
