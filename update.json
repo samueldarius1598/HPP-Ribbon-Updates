@@ -1,53 +1,53 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.25",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.25/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.25: Header sumber dan pembacaan Recipe terfilter diperbaiki. Recipe F&B tetap ditulis saat konversi atau yield belum lengkap, dengan keterangan pada baris terkait. Movement compliment, angka desimal, cost nol dan pembanding saldo diperbaiki. Pembukaan Prepare, pemulihan hasil tarikan dan penutupan Excel saat pembaruan diperbaiki.",
+  "version": "3.6.26",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.26/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.26: Recipe manual menjadi opsional dan dirapikan otomatis setelah Sales, termasuk baris kosong dan header WIP, dengan data bahan bermasalah tetap dipertahankan. Recipe F&B Analyst menjadi sumber standar perhitungan. Tombol Repair Sheet tersedia untuk Recipe dan Recipe F&B Analyst; cost memakai cache lokal yang valid lalu Odoo/ESB, dan total COGS tetap rumus.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.42",
+  "runtimeWorkerVersion": "0.1.44",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.25/smartcc-hpp-worker-v0.1.42-win-x64.zip",
-  "runtimeWorkerSha256": "69AC31BB53CAF70F0903F9A5AC3924F1BFC31757CD17F15F8E309AC662EBB044",
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.26/smartcc-hpp-worker-v0.1.44-win-x64.zip",
+  "runtimeWorkerSha256": "1888602B8883E9F4CDB9CC5C047E1C29BE9485726F992B9AA132098746BF87E4",
   "componentSchemaVersion": 1,
   "minUpdaterProtocol": 1,
   "components": [
     {
       "id": "addin",
-      "version": "7df5a3ad6ea85bdf",
-      "sha256": "7df5a3ad6ea85bdfc0adcb2fbe862c87bd0a95329a0ebbb244f51117cebe0d71",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.25/addin-7df5a3ad6ea85bdfc0adcb2fbe862c87bd0a95329a0ebbb244f51117cebe0d71.zip",
-      "downloadBytes": 57573359,
-      "installedBytes": 57801873,
+      "version": "07b8f0423b44b0ee",
+      "sha256": "07b8f0423b44b0ee8fcd6eecfbc3dbfda910e9f4ca04e64640dff09043227dc2",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.26/addin-07b8f0423b44b0ee8fcd6eecfbc3dbfda910e9f4ca04e64640dff09043227dc2.zip",
+      "downloadBytes": 57630737,
+      "installedBytes": 57858839,
       "files": [
         {
           "path": "smartsCCHPPMaster.xlam",
-          "bytes": 57801873,
-          "sha256": "eee54055e0b18b80098b80bcdd1a0101c6d67cc3eb028c29b7d93cdbb58ac179"
+          "bytes": 57858839,
+          "sha256": "dd9900c898490248670a5d4c6fce887910e2de68a39e3a716398864e4a41565a"
         }
       ]
     },
     {
       "id": "engine",
-      "version": "9b0f4b7f75763ff2",
-      "sha256": "9b0f4b7f75763ff2f974e79d23fdb6addf46a26331692dd4b1f2485fff51cd62",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.25/engine-9b0f4b7f75763ff2f974e79d23fdb6addf46a26331692dd4b1f2485fff51cd62.zip",
-      "downloadBytes": 34254624,
-      "installedBytes": 39687215,
+      "version": "7087e983aed6aab5",
+      "sha256": "7087e983aed6aab5970aa8d35a1c8cf8a1f0439ddc7cdd543b1526636e477da2",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.26/engine-7087e983aed6aab5970aa8d35a1c8cf8a1f0439ddc7cdd543b1526636e477da2.zip",
+      "downloadBytes": 34245430,
+      "installedBytes": 39672652,
       "files": [
         {
           "path": "smartcc-hpp-worker.exe",
-          "bytes": 39687215,
-          "sha256": "4eae13c0951317268727253c9937c2bd661210f75b5ee7f453659d82a1640917"
+          "bytes": 39672652,
+          "sha256": "ab4f4242e07d6af58598d2976a602566def1915fe9da7aed5ed3dcf368215af4"
         }
       ]
     },
     {
       "id": "ui-host",
-      "version": "382804027d64f953",
-      "sha256": "382804027d64f953de5200c59d6a83f1a4e9e93031008b25e229c02f5471db0c",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.25/ui-host-382804027d64f953de5200c59d6a83f1a4e9e93031008b25e229c02f5471db0c.zip",
-      "downloadBytes": 71558762,
-      "installedBytes": 171242048,
+      "version": "e316f002f982d245",
+      "sha256": "e316f002f982d245ca7546dfb53ac37bac53ef55f47a890046f9af024be9e5ac",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.26/ui-host-e316f002f982d245ca7546dfb53ac37bac53ef55f47a890046f9af024be9e5ac.zip",
+      "downloadBytes": 71576696,
+      "installedBytes": 171275864,
       "files": [
         {
           "path": "Accessibility.dll",
@@ -2157,12 +2157,17 @@
         {
           "path": "smartcc-hpp-worker-ui.dll",
           "bytes": 466944,
-          "sha256": "402ee9b7551c03f18d168d6c8844e5e007d8fa6d20410583f11852c53c031d5b"
+          "sha256": "706298bc68064ea40c9c8a0593b11bdd0348b4697c9e269e774ebb251e2f718e"
         },
         {
           "path": "smartcc-hpp-worker-ui.exe",
           "bytes": 240640,
-          "sha256": "94540db48682fdd4d1e304bb4a430d62dfe7f3dbd77a8afd124273c4bedcd168"
+          "sha256": "07a306230d1d91023f8a2eb52dea87dbe98fc971a04f25055dd775e4c8bfb0be"
+        },
+        {
+          "path": "smartcc-hpp-worker-ui.pdb",
+          "bytes": 33816,
+          "sha256": "f15a93fe8bc9fb4e7287b30934a36a18bcfa7228b51e6726f0d52a40a75d6f5d"
         },
         {
           "path": "smartcc-hpp-worker-ui.runtimeconfig.json",
@@ -2443,11 +2448,11 @@
     },
     {
       "id": "web-assets",
-      "version": "cec73e2a29ce26a2",
-      "sha256": "cec73e2a29ce26a2456e3b914bfd3d33a0bff6f578dae07f5e4a43330d4e16b5",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.25/web-assets-cec73e2a29ce26a2456e3b914bfd3d33a0bff6f578dae07f5e4a43330d4e16b5.zip",
-      "downloadBytes": 227244,
-      "installedBytes": 424448,
+      "version": "7f2a6e46e42621d3",
+      "sha256": "7f2a6e46e42621d3606e678f2c32843b03eff038d04103f71c64719a17069eab",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.26/web-assets-7f2a6e46e42621d3606e678f2c32843b03eff038d04103f71c64719a17069eab.zip",
+      "downloadBytes": 227347,
+      "installedBytes": 425016,
       "files": [
         {
           "path": "assets/app.css",
@@ -2456,8 +2461,8 @@
         },
         {
           "path": "assets/app.js",
-          "bytes": 246000,
-          "sha256": "4f17b5073d525264ab06b73f20fb5a8f0e3a24eeeddea383623af38b1373424d"
+          "bytes": 246538,
+          "sha256": "04a9284306792f0b8f6dfbac56cfdbd3dfddc79b7e895f5af0f306e3ccd7a848"
         },
         {
           "path": "assets/holypos-HEHMNC3Z.png",
@@ -2481,8 +2486,8 @@
         },
         {
           "path": "config-sync.html",
-          "bytes": 22988,
-          "sha256": "b1e555c9ff53e561feb6ceb32bdcf919b3bd269ad1d6918415c89bb63b3adeb3"
+          "bytes": 23018,
+          "sha256": "ad792ab844c1515c05dde92f81b6a60f157947c3c4a1c6a1409abbba6893b207"
         },
         {
           "path": "index.html",
@@ -2500,7 +2505,7 @@
       "id": "media-assets",
       "version": "5ec64f806b751c30",
       "sha256": "5ec64f806b751c3019cb22709e6b3364f0a5a489ce7bd651fd5bf724e335fd4a",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.25/media-assets-5ec64f806b751c3019cb22709e6b3364f0a5a489ce7bd651fd5bf724e335fd4a.zip",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.26/media-assets-5ec64f806b751c3019cb22709e6b3364f0a5a489ce7bd651fd5bf724e335fd4a.zip",
       "downloadBytes": 20199349,
       "installedBytes": 79594129,
       "files": [
