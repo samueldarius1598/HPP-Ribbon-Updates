@@ -1,43 +1,43 @@
 {
   "appId": "smartsCCHPPMaster",
-  "version": "3.6.27",
-  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.27/smartsCCHPPMaster.xlam",
-  "releaseNotes": "Versi 3.6.27: Opening (Manual) dan Balance (Manual) pada Dashboard Full Move kembali menjumlahkan seluruh qty berdasarkan kode item, termasuk kode yang muncul di beberapa baris sumber.",
+  "version": "3.6.28",
+  "downloadUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.28/smartsCCHPPMaster.xlam",
+  "releaseNotes": "Versi 3.6.28: Prepare kembali menerima Sales outlet dempet yang memuat baris outlet anak. Recipe F&B Analyst mencoba ulang otomatis bila koneksi ke Odoo atau sumber recipe terputus sesaat.",
   "forceUpdate": false,
-  "runtimeWorkerVersion": "0.1.44",
+  "runtimeWorkerVersion": "0.1.45",
   "runtimeWorkerPlatform": "win-x64",
-  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.27/smartcc-hpp-worker-v0.1.44-win-x64.zip",
-  "runtimeWorkerSha256": "1888602B8883E9F4CDB9CC5C047E1C29BE9485726F992B9AA132098746BF87E4",
+  "runtimeWorkerUrl": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.28/smartcc-hpp-worker-v0.1.45-win-x64.zip",
+  "runtimeWorkerSha256": "75CC4A4EE2AEEEF83E914CD48D51E1B7BB18A43FCA57A80FD5189A42A3CF56D7",
   "componentSchemaVersion": 1,
   "minUpdaterProtocol": 1,
   "components": [
     {
       "id": "addin",
-      "version": "ac5ef1d9988c203c",
-      "sha256": "ac5ef1d9988c203cba443885468d86c772711e7cbf32cfeac1bf13ae916cb03a",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.27/addin-ac5ef1d9988c203cba443885468d86c772711e7cbf32cfeac1bf13ae916cb03a.zip",
-      "downloadBytes": 57628339,
-      "installedBytes": 57857115,
+      "version": "dd0ac910448be0f9",
+      "sha256": "dd0ac910448be0f9d6dd1fad6658c879106ff5139ccd90081b0213f16b23a93b",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.28/addin-dd0ac910448be0f9d6dd1fad6658c879106ff5139ccd90081b0213f16b23a93b.zip",
+      "downloadBytes": 57629941,
+      "installedBytes": 57857991,
       "files": [
         {
           "path": "smartsCCHPPMaster.xlam",
-          "bytes": 57857115,
-          "sha256": "be986597b6bf1d4bca16449c488e887ad65e56050145e2064f2e41fe921714b1"
+          "bytes": 57857991,
+          "sha256": "d840489cd682bfb153e2c907f45f947e52c8f14220211cd8b8ac40623f5fc8c8"
         }
       ]
     },
     {
       "id": "engine",
-      "version": "7087e983aed6aab5",
-      "sha256": "7087e983aed6aab5970aa8d35a1c8cf8a1f0439ddc7cdd543b1526636e477da2",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.27/engine-7087e983aed6aab5970aa8d35a1c8cf8a1f0439ddc7cdd543b1526636e477da2.zip",
-      "downloadBytes": 34245430,
-      "installedBytes": 39672652,
+      "version": "2d9e9b5e5e3888b5",
+      "sha256": "2d9e9b5e5e3888b5c24dd62e5264960cbab4ebbd7e68e40e2369bedef9b4249a",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.28/engine-2d9e9b5e5e3888b5c24dd62e5264960cbab4ebbd7e68e40e2369bedef9b4249a.zip",
+      "downloadBytes": 34258955,
+      "installedBytes": 39691357,
       "files": [
         {
           "path": "smartcc-hpp-worker.exe",
-          "bytes": 39672652,
-          "sha256": "ab4f4242e07d6af58598d2976a602566def1915fe9da7aed5ed3dcf368215af4"
+          "bytes": 39691357,
+          "sha256": "6f36d758f6648ff314869d4667f5c629a69eb4ee31a838c714c6309659f8a72c"
         }
       ]
     },
@@ -45,7 +45,7 @@
       "id": "ui-host",
       "version": "e316f002f982d245",
       "sha256": "e316f002f982d245ca7546dfb53ac37bac53ef55f47a890046f9af024be9e5ac",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.27/ui-host-e316f002f982d245ca7546dfb53ac37bac53ef55f47a890046f9af024be9e5ac.zip",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.28/ui-host-e316f002f982d245ca7546dfb53ac37bac53ef55f47a890046f9af024be9e5ac.zip",
       "downloadBytes": 71576696,
       "installedBytes": 171275864,
       "files": [
@@ -2450,7 +2450,7 @@
       "id": "web-assets",
       "version": "7f2a6e46e42621d3",
       "sha256": "7f2a6e46e42621d3606e678f2c32843b03eff038d04103f71c64719a17069eab",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.27/web-assets-7f2a6e46e42621d3606e678f2c32843b03eff038d04103f71c64719a17069eab.zip",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.28/web-assets-7f2a6e46e42621d3606e678f2c32843b03eff038d04103f71c64719a17069eab.zip",
       "downloadBytes": 227347,
       "installedBytes": 425016,
       "files": [
@@ -2505,7 +2505,7 @@
       "id": "media-assets",
       "version": "5ec64f806b751c30",
       "sha256": "5ec64f806b751c3019cb22709e6b3364f0a5a489ce7bd651fd5bf724e335fd4a",
-      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.27/media-assets-5ec64f806b751c3019cb22709e6b3364f0a5a489ce7bd651fd5bf724e335fd4a.zip",
+      "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.28/media-assets-5ec64f806b751c3019cb22709e6b3364f0a5a489ce7bd651fd5bf724e335fd4a.zip",
       "downloadBytes": 20199349,
       "installedBytes": 79594129,
       "files": [
@@ -2539,14 +2539,14 @@
   ],
   "channel": "production",
   "nativeManifestProtocol": 2,
-  "addinBuildId": "release-3.6.27",
+  "addinBuildId": "release-3.6.28",
   "updater": {
     "version": "0.1.18",
-    "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.27/SmartCC-Updater-v0.1.18.msi",
+    "url": "https://github.com/samueldarius1598/HPP-Ribbon-Updates/releases/download/v3.6.28/SmartCC-Updater-v0.1.18.msi",
     "bytes": 53211136,
     "sha256": "574d6d9338a6e45ccd0c71ac169a6c889232eef33edb9cc4e84fd67db26bb23f",
     "exeSha256": "91c3ba7f57c6363f1932b7ca68ae937720c412a10632c00078d6b47ac25f3824"
   },
-  "issuedAt": "2026-10-11T09:07:25.371842+00:00",
-  "expiresAt": "2027-10-11T09:07:25.371842+00:00"
+  "issuedAt": "2026-10-11T17:34:36.373812+00:00",
+  "expiresAt": "2027-10-11T17:34:36.373812+00:00"
 }
